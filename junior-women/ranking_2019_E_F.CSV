@@ -1,0 +1,505 @@
+RANK;ATHLETE;NATION;San Salvador A;San-Juan A;Luxembourg A;Burgos A;Udine A;Maalot A;Bratislava A;Dijon A;Alger CHZ;Foggia CHZ;Bogota CHZ;Amman CHZ;TORUN CHM;TOTAL
+1;ISOLA Federica;ITA;;;32.00;;;;32.00;;;48.00;;;80.00;192.00
+2;SOLDATOVA Anastasia;RUS;;;14.00;8.00;14.00;32.00;20.00;26.00;;21.00;;;20.00;155.00
+3;ZHARKOVA Evgeniya;RUS;;;2.00;20.00;2.00;20.00;8.00;20.00;;39.00;;;35.00;146.00
+4;CANDREVA Greta;USA;;26.00;2.00;;;;0.50;14.00;;;48.00;;50.00;140.50
+5;LOIT Karoliine;EST;32.00;14.00;4.00;0.00;4.00;;14.00;2.00;;12.00;;;35.00;117.00
+6;TRADITI Gaia;ITA;;;26.00;;2.00;;8.00;2.00;;6.00;;;65.00;109.00
+7;CAGNIN Beatrice;ITA;;;8.00;4.00;32.00;;14.00;8.00;;3.00;;;35.00;104.00
+8;BOZZA Alessandra;ITA;;;4.00;26.00;8.00;;20.00;20.00;;6.00;;;10.00;94.00
+9;SAUMOVA Manana;RUS;;;14.00;1.00;8.00;8.00;2.00;8.00;;30.00;;;5.00;76.00
+10;NIXON Caroline;USA;;32.00;4.00;;;;4.00;;;;30.00;;2.50;72.50
+11;MURTAZAEVA Aizanat;RUS;;;4.00;2.00;26.00;26.00;2.00;2.00;;3.00;;;5.00;70.00
+12;GNAM Tamara;HUN;;;;1.00;2.00;;2.00;32.00;;12.00;;;20.00;69.00
+13;VERMEULE Emily;USA;;8.00;20.00;;;;4.00;;;;;;35.00;67.00
+14;MUHARI Eszter;HUN;;;;14.00;4.00;;14.00;;;12.00;;;20.00;64.00
+15;KIM Sieun;KOR;;;;;;;;;;;;12.00;50.00;62.00
+16;HECHT Dar;ISR;;;2.00;1.00;2.00;14.00;26.00;;;6.00;;;10.00;61.00
+17;CHORNIY Kateryna;UKR;;;;1.00;20.00;;14.00;4.00;;12.00;;;10.00;61.00
+18;CONSTANTINO Lola;USA;;20.00;;;;;0.50;8.00;;;12.00;;20.00;60.50
+19;SHI Yuexin;CHN;;;;;;;;;;;;48.00;10.00;58.00
+20;SHEFFIELD Laura;GBR;;8.00;4.00;4.00;0.00;8.00;8.00;2.00;;21.00;;;2.50;57.50
+21;DYNER Karina;CRC;26.00;2.00;;;;8.00;0.50;2.00;;;12.00;;5.00;55.50
+22;VANRYSSEL Eloise;FRA;;;14.00;4.00;20.00;4.00;1.00;4.00;;3.00;;;5.00;55.00
+23;KIM Chearin;KOR;;;;4.00;;;;;;;;39.00;10.00;53.00
+24;MARTENSSON Elvira;SWE;;;;2.00;;14.00;2.00;;;30.00;;;5.00;53.00
+25;FAVRE Angeline;SUI;;;20.00;1.00;4.00;;2.00;;;6.00;;;20.00;53.00
+26;VIVEROS Montserrat;PAR;20.00;4.00;;1.00;;;;;;;21.00;;5.00;51.00
+27;ZEBOUDJ Yousra;ALG;;;;;1.00;;;;48.00;;;;1.25;50.25
+28;BUKI Lili;HUN;;;;2.00;14.00;;2.00;;;21.00;;;10.00;49.00
+29;VIZEU Victoria;BRA;20.00;;;;4.00;;1.00;;;;21.00;;1.25;47.25
+30;MAYA Danierys;VEN;;;;;;;1.00;2.00;;;39.00;;5.00;47.00
+31;KOWALCZYK Sara Maria;ITA;;;2.00;32.00;4.00;;2.00;2.00;;;;;;42.00
+32;LEONARD Ariane;CAN;;4.00;1.00;;;;2.00;;;;30.00;;5.00;42.00
+33;BIELESZOVA Veronika;CZE;;;4.00;4.00;2.00;;2.00;4.00;;21.00;;;5.00;42.00
+34;GAVRIELKO Nikol;ISR;;;4.00;8.00;4.00;8.00;0.50;4.00;;3.00;;;10.00;41.50
+35;NARITA Ruka;JPN;;;;8.00;;;1.00;;;;;12.00;20.00;41.00
+36;POWELL Alexandra;GBR;;20.00;1.00;2.00;1.00;;0.50;;;6.00;;;10.00;40.50
+37;HUZAYEN Lma;EGY;;;;0.00;;;;;39.00;;;;;39.00
+38;TERAYAMA Tamaki;JPN;;;;;;;2.00;;;;;30.00;5.00;37.00
+39;VARFOLOMYEYEVA Darja;UKR;;;;0.50;2.00;;4.00;2.00;;6.00;;;20.00;34.50
+40;FEIGIN Nicole;ISR;;;;1.00;;14.00;2.00;;;12.00;;;5.00;34.00
+41;LUTY Aliya;FRA;;;;14.00;;;;8.00;;6.00;;;5.00;33.00
+42;YANG Jingwen;CHN;;;;;;;;;;;;30.00;2.50;32.50
+43;HARADA Saki;JPN;;4.00;;2.00;;;0.25;;;;;21.00;5.00;32.25
+44;HSIEH Kaylin Sin Yan;HKG;;;;;;;;;;;;12.00;20.00;32.00
+45;TARGAMAA Carmen-Lii;EST;;4.00;2.00;0.50;8.00;;2.00;2.00;;3.00;;;10.00;31.50
+46;SEOK Taeyoung;KOR;;;;;;;;;;;;21.00;10.00;31.00
+47;FAVRE Aurore;SUI;;;2.00;2.00;4.00;;8.00;4.00;;6.00;;;5.00;31.00
+48;DE JAGER Mone;RSA;;;;0.25;;;;;30.00;;;;0.00;30.25
+49;HUSSEIN Aya;EGY;;;;;;;;;30.00;;;;0.00;30.00
+50;LAUVRAY Emma;FRA;;;0.00;1.00;4.00;4.00;8.00;2.00;;6.00;;;5.00;30.00
+51;ZITTEL Alexandra;GER;;;8.00;;1.00;;4.00;8.00;;6.00;;;2.50;29.50
+52;VARELA Lea;FRA;;;1.00;0.50;2.00;8.00;1.00;14.00;;;;;2.50;29.00
+53;DEKANY Kinga;HUN;;;;4.00;1.00;;1.00;14.00;;6.00;;;2.50;28.50
+54;GUO Zi Shan;CAN;;4.00;2.00;;;;;;;;12.00;;10.00;28.00
+55;PAWLOWSKA Dominika;POL;;;1.00;0.00;4.00;;4.00;1.00;;12.00;;;5.00;27.00
+56;BRYCH Barbara;POL;;;2.00;4.00;;;2.00;8.00;;6.00;;;5.00;27.00
+57;VANDINGENEN Aube;BEL;14.00;;2.00;1.00;2.00;;;2.00;;3.00;;;2.50;26.50
+58;XING Yao;CHN;;;;;;;;;;;;21.00;5.00;26.00
+59;POSADA Betyumil;VEN;;;;;;;1.00;1.00;;;21.00;;2.50;25.50
+60;SLIUSAREVA Sofiia;UKR;;;;2.00;4.00;;1.00;2.00;;6.00;;;10.00;25.00
+61;DIAZ DEL RIO Rosario;CHI;;;;;;;0.50;2.00;;;21.00;;1.25;24.75
+62;NEVERDINOVA Alexandra;RUS;;;;4.00;;20.00;;;;;;;;24.00
+63;ZOZULYA Christina;CAN;;8.00;4.00;;;;;;;;12.00;;0.00;24.00
+64;KLASIK Alicja;POL;;;8.00;2.00;;;2.00;;;12.00;;;;24.00
+65;MURIDOVA Tamila;KAZ;;;;;;;;;;;;21.00;2.50;23.50
+66;CIFUENTES Ignacia;CHI;14.00;;;;;;1.00;0.00;;;6.00;;2.50;23.50
+67;MBIIM Solene;FRA;;;0.00;8.00;2.00;8.00;4.00;1.00;;0.00;;;;23.00
+68;QU Xiao Xiao;CHN;;;;;;;;;;;;12.00;10.00;22.00
+69;GAAFAR Rodaina;EGY;;;;0.25;;;;;21.00;;;;0.00;21.25
+70;COUFALOVA Anna;CZE;;;2.00;8.00;2.00;;4.00;1.00;;3.00;;;1.25;21.25
+71;ZIDEN Feryel;TUN;;;;;;;;;21.00;;;;;21.00
+72;GHRIB Nesrine;TUN;;;;;;;;;21.00;;;;;21.00
+73;GUEHAM Maroua;ALG;;;;;;;;;21.00;;;;;21.00
+74;MAYER Lea;GER;;;0.00;8.00;2.00;;1.00;2.00;;3.00;;;5.00;21.00
+75;KIM Taehee;KOR;;;;20.00;;;;;;;;;;20.00
+76;BORSODY Emma;HUN;;;;2.00;2.00;;2.00;14.00;;;;;;20.00
+77;SEGATTO Alessandra;ITA;;;1.00;4.00;14.00;;1.00;;;;;;;20.00
+78;KESAEVA Marina;RUS;;;14.00;;0.00;4.00;1.00;1.00;;;;;;20.00
+79;TURCSAK Bianka;HUN;;;;1.00;14.00;;1.00;4.00;;;;;;20.00
+80;AMARAL Clara;BRA;14.00;;;;;;;;;;6.00;;;20.00
+81;WASIAK Axelle;BEL;;;4.00;1.00;2.00;;2.00;;;0.00;;;10.00;19.00
+82;GRIJAK Jana;SRB;;;;;1.00;;0.50;;;12.00;;;5.00;18.50
+83;DOSKOVA Katerina;CZE;;;1.00;2.00;;;0.50;4.00;;6.00;;;5.00;18.50
+84;FALINSKA Julia;POL;;;8.00;2.00;;;;;;3.00;;;5.00;18.00
+85;JANELLI Zofia;POL;;;8.00;1.00;;;4.00;;;;;;5.00;18.00
+86;TALEN Andra;EST;;8.00;2.00;0.50;;;1.00;0.50;;3.00;;;2.50;17.50
+87;BENEA Bianca;ROU;;;;0.50;;;4.00;;;3.00;;;10.00;17.50
+88;BEDDINGFIELD Claire;USA;;14.00;2.00;;;;1.00;;;;;;;17.00
+89;MASLENNIKOVA Sofya;RUS;;;4.00;1.00;;4.00;0.00;8.00;;;;;;17.00
+90;LUCANI Lola;FRA;;;1.00;4.00;1.00;8.00;2.00;1.00;;;;;;17.00
+91;JARAMILLO QUEVEDO Maria De Los Angeles;COL;;;;;;;;;;;12.00;;5.00;17.00
+92;GRASSO Agata Alberta;ITA;;;8.00;1.00;4.00;;2.00;2.00;;;;;;17.00
+93;MEDINA Elizabeth;MEX;;14.00;;;;;;;;;;;2.50;16.50
+94;SERSOT Jade;FRA;;;;;;4.00;8.00;4.00;;;;;;16.00
+95;SAMKO Anastasiia;UKR;;;;2.00;0.50;;4.00;4.00;;3.00;;;2.50;16.00
+96;LOEHR Lisa-Marie;GER;;;2.00;2.00;2.00;;1.00;1.00;;3.00;;;5.00;16.00
+97;ANDERSEN Madeleine;AUS;;;1.00;0.25;;;;;;;;12.00;2.50;15.75
+98;PREDESCU Alexandra;ROU;;;;2.00;;;0.50;;;3.00;;;10.00;15.50
+99;BONAL Margaux;FRA;;;;;1.00;14.00;0.25;;;;;;;15.25
+100;ONG Rebecca Jia Min;SGP;;;;1.00;2.00;;;;;;;12.00;;15.00
+101;SALIGEROVA Katerina;CZE;;;4.00;1.00;2.00;;0.50;2.00;;3.00;;;2.50;15.00
+102;JAAKKOLA Outi;FIN;;;;0.25;8.00;;1.00;;;3.00;;;2.50;14.75
+103;ABDUL RAHMAN Kiria Tikanah;SGP;;;;;;;;;;;;12.00;2.50;14.50
+104;BOS Valentina;SUI;;;4.00;0.50;1.00;;2.00;4.00;;3.00;;;;14.50
+105;KARDOS Edina;HUN;;;;2.00;8.00;;0.25;4.00;;;;;;14.25
+106;GUIMARAES Maria Carolina;BRA;14.00;;;;;;;;;;;;;14.00
+107;MARTINEZ VIDAL Elisa;ESP;;;;14.00;0.00;;;;;;;;0.00;14.00
+108;MANGANO Ariana;USA;;14.00;;;;;;;;;;;;14.00
+109;VOROBIEVA Anastasia;RUS;;;0.00;14.00;;;;;;;;;;14.00
+110;HATZ Fiona;SUI;;;;;;;2.00;4.00;;3.00;;;5.00;14.00
+111;BAVUGE KHABIMANA Milen;RUS;;;;1.00;2.00;;2.00;8.00;;;;;;13.00
+112;GRADY Miriam;USA;;4.00;8.00;;;;0.50;;;;;;;12.50
+113;PICART Scarlett;CHI;;;;;;;0.00;0.50;;;12.00;;0.00;12.50
+114;CENA Marzia;ITA;;;8.00;0.50;4.00;;;;;;;;;12.50
+115;ZAKHARENKO Antonina;RUS;;;4.00;0.50;2.00;4.00;2.00;;;;;;;12.50
+116;NAZIH Mariam;EGY;;;;0.00;;;;;12.00;;;;;12.00
+117;BEN GOUTET Feriel;TUN;;;;;;;;;12.00;;;;;12.00
+118;BURGER Mieke;RSA;;;;;;;;;12.00;;;;;12.00
+118;MAMI Nour El Houda;TUN;;;;;;;;;12.00;;;;;12.00
+120;KHATRI Taniksha;IND;;;;;;;;;;;;12.00;;12.00
+121;MALEK Leia Racha;ALG;;;;;;;;;12.00;;;;;12.00
+122;PIRKOWSKI Amanda;USA;;;2.00;;;;8.00;2.00;;;;;;12.00
+123;GNINGUE Diarrietou Lahi;SEN;;;;;;;;;12.00;;;;;12.00
+124;LAGGOUNE Hanane;ALG;;;;;;;;;12.00;;;;;12.00
+124;TORRES Diana;MEX;;;;;;;;;;;12.00;;;12.00
+126;BERTOGLIO Francesca;ITA;;;;2.00;1.00;;8.00;1.00;;;;;;12.00
+127;ZETTERMANN Renata;BRA;;;;;;;;;;;12.00;;0.00;12.00
+128;VAN MANEN Anokha;RSA;;;;;;;;;12.00;;;;;12.00
+129;LOMBARDI Marta;ITA;;;2.00;1.00;4.00;;1.00;4.00;;;;;;12.00
+130;KANEVSKI Vera Maia Devi;ISR;;;2.00;1.00;1.00;4.00;1.00;;;3.00;;;0.00;12.00
+131;HAENDLER Anja;GER;;;0.50;0.50;2.00;;4.00;;;;;;5.00;12.00
+132;CONRAD Alice;FRA;;;4.00;0.25;0.50;4.00;2.00;1.00;;;;;;11.75
+133;BAROSAN Denisa;ROU;;;;4.00;;;0.25;;;6.00;;;1.25;11.50
+134;HILBRIG Viktoria;GER;;;2.00;4.00;1.00;;0.25;1.00;;3.00;;;;11.25
+135;KIM Dain;KOR;;;;;;;;;;;;6.00;5.00;11.00
+136;KELLER Camille;FRA;;;2.00;1.00;2.00;4.00;0.00;2.00;;;;;;11.00
+137;PRINCIPE Emily;AUS;;4.00;;;1.00;;;;;;;6.00;;11.00
+138;JASNA Tereza;CZE;;;2.00;2.00;2.00;;4.00;1.00;;;;;;11.00
+139;ZHANSUGUROVA Shantal;KAZ;;;0.00;;;;0.50;2.00;;;;6.00;2.50;11.00
+140;NIKOLAICHUK Sofiya;KAZ;;;1.00;;;;0.25;4.00;;;;3.00;2.50;10.75
+141;KOMAR Sofia;USA;;8.00;2.00;;;;0.25;;;;;;;10.25
+142;CAMPANI Letizia;ITA;;;;2.00;8.00;;;;;;;;;10.00
+143;PIZZINI Alessia;ITA;;;2.00;2.00;1.00;;4.00;1.00;;;;;;10.00
+144;BULTYNCK Anne;BEL;;;0.50;0.25;1.00;8.00;0.00;0.00;;;;;;9.75
+145;BURSOVA Regina;SVK;;;1.00;4.00;1.00;;0.50;;;3.00;;;0.00;9.50
+146;TAMASHEUSKAYA Kseniya;BLR;;;;;;4.00;4.00;;;;;;1.25;9.25
+147;MACCAGNO Carola;ITA;;;;8.00;1.00;;;;;;;;;9.00
+148;AMBROSI Isabella;ITA;;;;;8.00;;1.00;;;;;;;9.00
+149;KHROL Jaclyn;USA;;4.00;4.00;;;;1.00;;;;;;;9.00
+150;HALVACIAY Beyza;TUR;;;;;4.00;;0.00;2.00;;3.00;;;0.00;9.00
+151;IZZO Iulia;SUI;;;;4.00;0.00;;1.00;4.00;;;;;;9.00
+152;KAZAR Dora;HUN;;;;2.00;2.00;;1.00;4.00;;;;;;9.00
+153;ABDYL-KHAMITOVA Kamilia;KGZ;;;;;;;;;;;;6.00;2.50;8.50
+154;CHEN Yu Hsuan;TPE;;;;;;;;;;;;6.00;2.50;8.50
+155;KO Christina Anne;HKG;;;;;;;;;;;;6.00;2.50;8.50
+156;SZARVAS Rita;HUN;;;;;8.00;;0.25;;;;;;;8.25
+157;HERSANT Lydiane;FRA;;;2.00;;;4.00;0.25;2.00;;;;;;8.25
+158;DRAEGER Alma;FRA;;;2.00;0.25;1.00;4.00;0.00;1.00;;;;;;8.25
+159;SCHLIER Zsuzsa;ROU;;;;0.00;;;0.25;;;3.00;;;5.00;8.25
+160;LOURENCO CARVAJAL Amarili;GER;8.00;0.00;;;;;;0.00;;;;;;8.00
+161;ESTRADA Elsie;GUA;8.00;;;;;;;;;;;;;8.00
+162;POLO Carolina;BRA;8.00;;;;0.00;;0.00;0.00;;;0.00;;0.00;8.00
+163;MOSHEIM CARBAJAL Alexandra;CRC;8.00;;;;;;;;;;;;;8.00
+164;DANIEL Chloe;USA;;8.00;;;;;;;;;;;;8.00
+164;MOLINA CERON Krissya Marlieth;ESA;8.00;;;;;;;;;;;;;8.00
+166;RODRIGUEZ Natalia;GUA;8.00;;;;;;;;;;;;;8.00
+166;MIERCZUK Tessa;CAN;;8.00;;;;;;;;;;;;8.00
+168;RAMIREZ GUEVARA Dayanna Graciela;ESA;8.00;;;;;;;;;;0.00;;;8.00
+169;TAKAHASHI Rie;JPN;;8.00;;;;;;;;;;;;8.00
+170;HISASUE Shiori;JPN;;;;8.00;;;;;;;;;;8.00
+170;MADRID HERNANDEZ Jennifer Elena;ESA;8.00;;;;;;;;;;;;;8.00
+172;CURTO Gaia;ITA;;;4.00;;4.00;;;;;;;;;8.00
+173;KECMAN Milica;SRB;;;;;0.50;;0.25;;;6.00;;;1.25;8.00
+174;LAY RIVERA Xiany Xiu;PUR;;2.00;;;;;;;;;6.00;;;8.00
+175;MASALO Olivija;LTU;;;2.00;;;;1.00;;;0.00;;;5.00;8.00
+176;GRIJAK Marta;SRB;;;;;2.00;;0.25;;;3.00;;;2.50;7.75
+177;GRABHER Antonia;AUT;;;0.00;4.00;0.00;;0.50;0.50;;0.00;;;2.50;7.50
+178;BOOY Tamara;CAN;;;1.00;;;;0.00;;;;6.00;;;7.00
+179;GARNERI Elodie;FRA;;;2.00;;1.00;4.00;;;;;;;;7.00
+180;MAZUR Yeva;UKR;;;;2.00;2.00;;1.00;2.00;;;;;;7.00
+181;MIKHALEVICH Anhelina;BLR;;;;;;;4.00;;;;;;2.50;6.50
+182;ANDREYEVA Vladislava;KAZ;;;1.00;;;;0.50;2.00;;;;3.00;;6.50
+183;PIVETEAU Anne-Clemence;SUI;;;1.00;0.50;2.00;;1.00;2.00;;;;;;6.50
+184;CHOU Jou Chun;TPE;;;;0.25;;;;;;;;6.00;;6.25
+185;BRILLA ARAYA Anghella;CRC;0.00;;;;;;;;;;6.00;;;6.00
+186;AMOUGOU Marcelle;CMR;;;;;;;;;6.00;;;;0.00;6.00
+187;NUSA VASQUEZ Maria Del Mar;COL;;;;;;;;;;;6.00;;;6.00
+188;SALAMEH Nai;LBN;;;;;;;;;;;;6.00;;6.00
+188;TRIANA CEBALLOS Valentina;COL;;;;;;;;;;;6.00;;;6.00
+190;ARROYO NEGRON Yeileann M.;PUR;;0.00;;;;;;;;;6.00;;;6.00
+191;MANSI Dina;JOR;;;;;;;;;;;;6.00;;6.00
+191;DOMINGUEZ Karen;MEX;;;;;;;;;;;6.00;;;6.00
+193;LEUNG Kay Sze Karina;HKG;;;;;;;;;;;;6.00;0.00;6.00
+194;FARIAS Clarismar;VEN;;;;;;;;;;;6.00;;;6.00
+195;PELLICIER TORRES Adriana M.;PUR;;0.00;;;;;;;;;6.00;;;6.00
+196;DELOS SANTOS Jaymi;PHI;;;;;;;;;;;;6.00;;6.00
+197;LEE Bik Gwan;HKG;;;;;;;;;;;;6.00;0.00;6.00
+198;AGUILAR Claudia;MEX;;;;;;;;;;;6.00;;0.00;6.00
+199;GETTUEVA Ekaterina;KGZ;;;;;;;;;;;;6.00;;6.00
+200;VALBUENA BEDOYA Braiana;COL;;;;;;;;;;;6.00;;;6.00
+201;SHEFFIELD Lake;USA;;4.00;1.00;;;;1.00;;;;;;;6.00
+202;DIAZ Nivia;PAN;;;;;;;;;;;6.00;;;6.00
+202;DALAL Sheetal;IND;;;;;;;;;;;;6.00;;6.00
+204;SUVONOVA Jasmina;UZB;;;;;;;;;;;;6.00;;6.00
+205;REYES CARRERAS Daniela;PUR;;0.00;;;;;;;;;6.00;;;6.00
+206;OYA Nichika;JPN;;4.00;;2.00;;;;;;;;;;6.00
+207;ABOU JAOUDE Marie Joe;LBN;;;;;;;;;;;;6.00;;6.00
+208;MASSEREY Solene;SUI;;;2.00;1.00;0.00;;2.00;1.00;;;;;;6.00
+209;AZNAR Laura;ESP;;;;0.50;;;;;;3.00;;;2.50;6.00
+210;LOUIS Avery;GBR;;;0.50;2.00;0.00;;0.25;0.00;;0.00;;;2.50;5.25
+211;ZUGASTI Paula;ESP;;;;0.25;;;;0.00;;;;;5.00;5.25
+212;GALPER Eva;ISR;;;;1.00;;4.00;0.00;;;;;;;5.00
+213;GENTILE Francesca;ITA;;;;;4.00;;;1.00;;;;;;5.00
+214;MAJDANDZIC Andrea;CRO;;;;;;;;;;;;;5.00;5.00
+215;LOPEZ DE LA PENA Paula;ESP;;;;0.50;;;0.25;1.00;;3.00;;;;4.75
+216;CONRAD Anastasia;SUI;;;2.00;2.00;0.50;;0.25;0.00;;;;;;4.75
+217;MOTTAZ Celine;SUI;;;1.00;0.25;1.00;;0.50;2.00;;;;;;4.75
+218;ALEXANDROVA Diana;RUS;;;;;;4.00;0.50;;;;;;;4.50
+219;VILCANE Jana;LAT;;;;;;2.00;;;;;;;2.50;4.50
+220;KAWENCKA Ewa;POL;;;0.50;0.00;;;2.00;2.00;;;;;;4.50
+221;JIMENEZ CEBADA Ana Isabel;ESP;;;;0.00;;;0.50;1.00;;3.00;;;;4.50
+222;SASVARIOVA Laura;SVK;;;0.00;;1.00;;;1.00;;;;;2.50;4.50
+223;CHIBA Kei;JPN;;4.00;;;;;0.25;;;;;;;4.25
+224;WINYA Warisa;THA;;;;;;;;;;;;3.00;1.25;4.25
+225;TAN Aaliyaa Shu Qi;SGP;;;;;;;;;;;;3.00;1.25;4.25
+226;KOLBINGER Brenda;GER;;;0.00;2.00;2.00;;0.25;;;;;;;4.25
+227;HEINZ Vanessa;GER;;;2.00;0.00;2.00;;0.25;0.00;;;;;;4.25
+228;MINNULLINA Ella;RUS;;;;;;;4.00;;;;;;;4.00
+228;ENO Megan;USA;;4.00;;;;;;;;;;;;4.00
+230;YAKOBSON Michelle;ISR;;;;;;4.00;;;;;;;;4.00
+230;GRIMSHAW Rose;GBR;;4.00;;;;;;;;;;;;4.00
+232;HASUI Hina;JPN;;4.00;;;;;;;;;;;;4.00
+233;KO Yein;KOR;;;;4.00;;;;;;;;;;4.00
+234;MARUYAMA Sakura;JPN;;4.00;;;;;;;;;;;;4.00
+235;ARAI Hiyori;JPN;;4.00;;;;;;;;;;;;4.00
+236;RAUSCH Ariana;USA;;;2.00;;;;2.00;;;;;;;4.00
+237;SIVA KUMAR Thhivya Ashti;SGP;;;;;1.00;;;;;;;3.00;0.00;4.00
+238;ROSSATTI Emilia;ITA;;;;;2.00;;;2.00;;;;;;4.00
+239;NAGAI Anna;JPN;;;;2.00;;;2.00;;;;;;;4.00
+240;LENTZ Helena;GER;;;;;0.00;;2.00;2.00;;;;;;4.00
+241;LUNA Alessandra;SUI;;;1.00;;2.00;;0.00;1.00;;;;;;4.00
+242;HENDERSON-ROE Maia;GBR;;;2.00;0.50;1.00;;;;;0.00;;;0.00;3.50
+243;ZGRYZNIAK Kinga;POL;;;1.00;2.00;;;0.50;;;;;;;3.50
+244;CERVENKOVA Katerina;CZE;;;1.00;;0.50;;1.00;1.00;;;;;;3.50
+245;MADEIRA Catarina;POR;;;;1.00;;;;;;0.00;;;2.50;3.50
+246;LOFGREN Sonja;SWE;;;2.00;0.25;;;1.00;;;;;;;3.25
+247;KOLCZONAY Borbala;HUN;;;;2.00;1.00;;0.25;;;;;;;3.25
+248;RITAKALLIO Rilla;FIN;;;0.50;;;;0.25;;;0.00;;;2.50;3.25
+249;ALKLOUB Shahed;JOR;;;;;;;;;;;;3.00;;3.00
+250;UCHIDA Juri;JPN;;2.00;;0.50;;;0.50;;;;;;;3.00
+251;BARNES Rachel;GBR;;2.00;;;1.00;;;;;;;;;3.00
+252;CHUA Keziah Zelci Rein;PHI;;;;;;;;;;;;3.00;;3.00
+253;SHIH Hui Jou;TPE;;;;;;;;;;;;3.00;0.00;3.00
+254;SAYSON Samantha Beatrice;PHI;;;;;;;;;;;;3.00;0.00;3.00
+255;YEE Amelie;AUS;;;;;;;;;;;;3.00;0.00;3.00
+256;THANARATTANAPHAN Vantana;THA;;;;;;;;;;;;3.00;;3.00
+256;MATIAS Andrea Jennelle;PHI;;;;;;;;;;;;3.00;;3.00
+258;BUGA Mariya;TKM;;;;;;;;;;;;3.00;;3.00
+259;CHU Tsung-Wen;TPE;;;;;;;;;;;;3.00;0.00;3.00
+260;ALMARZOOQI Fajar;UAE;;;;;;;;;;;;3.00;;3.00
+261;VASANASOMSITHI Pacharaporn;THA;;;;;;;;;;;;3.00;0.00;3.00
+262;OBAID Ayesha;UAE;;;;;;;;;;;;3.00;;3.00
+263;HALABIYA Malak;PLE;;;;;;;;;;;;3.00;;3.00
+264;AMMAR Jana;LBN;;;;;;;;;;;;3.00;;3.00
+265;SKRZYPCZAK Wiktoria;POL;;;0.00;2.00;;;0.50;0.50;;;;;;3.00
+266;KOLETSOU Evrydiki;GRE;;;;;;;;;;3.00;;;;3.00
+267;JASNA Adela;CZE;;;0.00;;2.00;;0.00;1.00;;;;;;3.00
+268;BEKEN Solane;BEL;;;1.00;1.00;1.00;;;;;;;;;3.00
+269;GREUL Kerstin;GER;;;0.00;0.25;0.50;;2.00;;;;;;;2.75
+270;LEE Madeleine;GBR;;;2.00;0.25;0.50;;;;;;;;;2.75
+271;SZABO Viktoria;HUN;;;;0.25;0.50;;2.00;;;;;;;2.75
+272;ERSOY Merve;TUR;;;;;2.00;;0.25;0.50;;0.00;;;;2.75
+273;TAKAHASHI Erika;JPN;;;;0.25;;;0.00;;;;;;2.50;2.75
+274;BOGDANOV Adele;ISR;;;;0.50;;2.00;;;;;;;;2.50
+275;TORREGO Alicia;ESP;;;;0.50;;;;2.00;;;;;0.00;2.50
+276;POTOCKOVA Katerina;CZE;;;0.50;;0.00;;0.00;2.00;;;;;;2.50
+277;EGERSZEGI Alexandra;HUN;;;;0.50;;;2.00;;;;;;;2.50
+278;PIATTI Sabrina;ITA;;;1.00;;0.50;;;1.00;;;;;;2.50
+279;SAPIN Galadrielle Tunde;SUI;;;1.00;0.50;1.00;;0.00;0.00;;;;;;2.50
+280;TEUBER Carolin;GER;;;1.00;0.00;1.00;;0.50;;;;;;;2.50
+281;COEYTAUX Loyse;FRA;;;1.00;0.25;0.00;;;1.00;;;;;;2.25
+282;TAMBOVTSEVA Alexandra;KAZ;;;0.00;;;;;1.00;;;;;1.25;2.25
+283;SPATENKOVA Anna;CZE;;;1.00;;1.00;;0.25;0.00;;;;;;2.25
+284;STAVICKAJA Ivona;LTU;;;;;;;1.00;;;;;;1.25;2.25
+285;CALDERARO Margherita;ITA;;;;;;2.00;;;;;;;;2.00
+286;ELAMUR Mia;ISR;;;;;;2.00;;;;;;;;2.00
+287;APONTE RODRIGUEZ Monica;PUR;;2.00;;;;;;;;;;;;2.00
+288;PANTSIALEYEVA Yeva;BLR;;;;;;2.00;;;;;;;;2.00
+289;MEDLIN BETANCOURT Sofia Beatriz;PUR;;2.00;;;;;;;;;;;;2.00
+289;DYERKTOR Kamila;ISR;;;;;;2.00;;;;;;;;2.00
+291;TAL Roni;ISR;;;;;;2.00;;;;;;;;2.00
+292;MARTINI Margherita;ITA;;;;;;2.00;;;;;;;;2.00
+292;LANDO Tamara;UKR;;;;;;2.00;;;;;;;;2.00
+294;YIZHAKI Yuval;ISR;;;;;;2.00;;;;;;;;2.00
+295;KHRAMTSOV Anastasiya;ISR;;;;;;2.00;;;;;;;;2.00
+296;SAADUN Lior;ISR;;;;;;2.00;;;;;;;;2.00
+296;GZYUNOVA Anna;RUS;;;;2.00;;;;;;;;;;2.00
+298;LIPTHAY Hanna;HUN;;;;;;;;2.00;;;;;;2.00
+299;HANSSON Sofia;SWE;;;;0.00;;;2.00;;;0.00;;;;2.00
+300;ENGDAHL Sophie;SWE;;;;2.00;;;0.00;;;;;;0.00;2.00
+301;CHARLOT Apolline;FRA;;;;;;;;2.00;;;;;;2.00
+302;PETRI Renata;HUN;;;;2.00;;;;;;;;;;2.00
+303;MALVIK Katherina;NOR;;;1.00;1.00;0.00;;0.00;;;0.00;;;;2.00
+304;AGATH Thordis;AUT;;;1.00;0.50;0.00;;0.50;;;;;;;2.00
+305;SKOBLOV Sandra;EST;;;1.00;0.25;;;0.50;;;;;;;1.75
+306;KHOROSHEVA Anastasia;RUS;;;;0.50;1.00;;0.25;;;;;;;1.75
+307;JONAS Eva;GER;;;1.00;0.50;0.00;;;;;;;;;1.50
+308;PROKSIKOVA Patricie;CZE;;;;;0.50;;0.00;1.00;;;;;;1.50
+309;YETKIN Melissa;GER;;;0.00;0.50;;;1.00;;;;;;;1.50
+310;VILLIGER Elin;SUI;;;0.00;;1.00;;;0.50;;;;;;1.50
+311;LEGROS Flora;FRA;;;0.50;0.00;0.00;;;1.00;;;;;;1.50
+312;POPOVA Kseniya;UKR;;;;;0.50;;1.00;;;;;;;1.50
+313;STASZULONEK Karolina;POL;;;0.50;0.50;;;0.50;;;;;;;1.50
+314;LABRO Emma;BEL;;;1.00;0.25;;;0.00;0.00;;;;;;1.25
+315;MARUCHA Weronika;POL;;;1.00;;0.00;;0.25;;;;;;;1.25
+316;SIMMS-LYMN Tia;JAM;;;;;;;;;;;;;1.25;1.25
+317;GIORDANO Giorgia;BRA;;;;;;;;;;;;;1.25;1.25
+318;HRISTOVA Silvena;BUL;;;;;;;;;;;;;1.25;1.25
+319;YAMANAKA Mina;USA;;;1.00;;;;;;;;;;;1.00
+320;ZELENTSOVA Alina;UKR;;;;1.00;;;0.00;;;;;;;1.00
+321;CHAVIGNY Sophie;FRA;;;;;;;;1.00;;;;;;1.00
+322;GABUTTI Emilie;SUI;;;;1.00;0.00;;0.00;;;;;;;1.00
+323;LIN Jessica;USA;;;;;;;1.00;;;;;;;1.00
+324;KROESE Katelijn;NED;;;1.00;0.00;;;0.00;0.00;;0.00;;;0.00;1.00
+325;MUELLER Jule;GER;;;;;;;;1.00;;;;;;1.00
+326;WRAMNER Natalie;SWE;;;;1.00;;;0.00;;;;;;;1.00
+327;EUGENE Solene;FRA;;;;;;;;1.00;;;;;;1.00
+328;SADOVA Dariia;UKR;;;;1.00;;;;;;;;;;1.00
+329;BOUILLANT Audrey;SUI;;;;1.00;;;;;;;;;;1.00
+330;WETZKER Laura Katalin;HUN;;;;;;;;1.00;;;;;;1.00
+331;PINIER Clementine;FRA;;;;;;;;1.00;;;;;;1.00
+332;ZABOLOTNA Daryna;UKR;;;;;1.00;;0.00;;;;;;;1.00
+333;GREPPI Sara;ESP;;;;;;;;1.00;;;;;;1.00
+334;FOXWELL-MOSS Taylor;GBR;;;0.00;0.00;1.00;;;;;;;;;1.00
+335;KIRCHNER Emma;SVK;;;;1.00;0.00;;0.00;;;;;;;1.00
+336;SULEJ Zuzanna;POL;;;0.50;0.50;;;0.00;;;;;;;1.00
+337;ENACHE Talida;ROU;;;;0.50;;;0.50;;;;;;;1.00
+338;GALLINA Giordana;ITA;;;;0.50;0.00;;0.50;;;;;;;1.00
+339;WATKINS Abigail;GBR;;;0.00;0.25;0.50;;0.00;0.00;;;;;;0.75
+340;ZHDANOVICH Maria;AUS;;;;0.25;0.50;;;;;;;;;0.75
+341;SAAVALAINEN Hannah;FIN;;;;0.50;;;0.00;;;0.00;;;0.00;0.50
+342;BOURREAU Agathe;FRA;;;;;;;;0.50;;;;;;0.50
+343;SJURSETH Isolde;SWE;;;;0.50;;;;;;;;;;0.50
+344;OIEN Jacqueline;GBR;;;0.00;0.50;;;;;;;;;;0.50
+345;CHAU Lina Soleya;FRA;;;;;;;;0.50;;;;;;0.50
+346;GROTA Emanuela;BRA;;;;;;;;0.50;;;;;;0.50
+347;BISHOP Catherine;GBR;;;0.50;;0.00;;0.00;0.00;;;;;;0.50
+348;KAZMINA Polina;RUS;;;;;0.00;;;0.50;;;;;;0.50
+349;STEURBAUT Romane;BEL;;;0.50;0.00;;;0.00;;;;;;;0.50
+350;STELLA Sophia Eloisa;ITA;;;;;0.50;;;;;;;;;0.50
+351;SU Nicole;CAN;;;0.50;;;;;;;;;;;0.50
+352;REPANATI Benedetta;ITA;;;;;0.50;;;;;;;;;0.50
+353;MAYR Franziska;GER;;;0.00;0.00;;;0.50;;;;;;;0.50
+354;CONSTANTINESCU Cristina;ROU;;;;;;;0.50;;;;;;;0.50
+355;SEMIANNIKOV Elianna;ISR;;;;0.50;;;;;;;;;;0.50
+356;SAITO Hana;JPN;;;;0.50;;;0.00;;;;;;;0.50
+357;IBANEZ Celia;ESP;;;;0.50;;;;;;;;;;0.50
+358;KARIMOVA Almira;RUS;;;;;;;0.50;;;;;;;0.50
+359;REMESAL Ana;ESP;;;;0.00;;;0.50;;;;;;;0.50
+360;ISIDRO Alba;ESP;;;;0.25;;;0.25;;;;;;;0.50
+361;LOBERA Teresa;ESP;;;;0.00;;;0.25;;;0.00;;;;0.25
+362;CABIT Clementine;FRA;;;;;;;0.25;0.00;;;;;;0.25
+363;SUCHKOVA Maria;RUS;;;;0.25;;;;0.00;;;;;;0.25
+364;HAIDAI Lyudmila;UKR;;;;;0.00;;0.25;;;;;;;0.25
+365;RAPOSO Dana;ESP;;;;0.25;0.00;;;;;;;;;0.25
+366;OLAYA Astrid;PER;;;;0.25;;;;;;;;;;0.25
+367;KUZMICH Aliaksandra;BLR;;;;;;;0.25;;;;;;0.00;0.25
+368;KANEKI Manaka;JPN;;;;;;;0.25;;;;;;;0.25
+369;STEWART Alex;GBR;;;;0.25;;;;;;;;;;0.25
+370;DZEKEVICH Katsiaryna;BLR;;;;;;;0.25;;;;;;;0.25
+371;TORRENTE Lucia;ESP;;;;0.00;;;0.25;;;;;;;0.25
+372;PANEDA Victoria;ESP;;;;0.25;;;;;;;;;;0.25
+373;KNAPIK Katarzyna;POL;;;;;;;0.25;;;;;;;0.25
+374;FAN Yun-Cian;TPE;;;;0.25;;;;;;;;;;0.25
+375;ERMAN Lal;TUR;;;;;;;0.25;;;;;;;0.25
+375;ARRIBAS Claudia;ESP;;;;0.25;;;;;;;;;;0.25
+377;TRABADA Gracia;ESP;;;;0.25;;;0.00;;;;;;;0.25
+378;CHOI Garam;KOR;;;;0.25;;;;;;;;;;0.25
+378;LIXANDRU Nicole;ESP;;;;0.25;;;;;;;;;;0.25
+380;HERAS Lucia;ESP;;;;0.25;;;;;;;;;;0.25
+381;BOULANDIER Maria;ESP;;;;0.25;;;0.00;;;;;;;0.25
+382;JADCZAK Dominika;POL;;;;0.25;;;;;;;;;;0.25
+383;THERA Mariam;MLI;;;;;;;;;0.00;;;;;0.00
+383;MOLINA CERON Cesia Merari;ESA;0.00;;;;;;;;;;;;;0.00
+385;WONAME Kelsey Victoria Afriyie;GHA;;;;;;;;;0.00;;;;;0.00
+385;PORTILLO LOPEZ Marcela Tais;ESA;0.00;;;;;;;;;;;;;0.00
+387;RIVERA BELTRAN Jennifer Alexandra;ESA;0.00;;;;;;;;;;;;;0.00
+387;COULIBALY Diakassa;MLI;;;;;;;;;0.00;;;;;0.00
+389;DJIBA Seyni Fatou;SEN;;;;;;;;;0.00;;;;;0.00
+390;MANE Khadidiatou;SEN;;;;;;;;;0.00;;;;;0.00
+391;AVENDANO Daniela;MEX;;;;;;;;;;;0.00;;;0.00
+392;RODRIGUEZ Cindy;VEN;;;;;;;;;;;0.00;;;0.00
+393;NAHAPETYAN Datev;ARG;;;;;;;;;;;0.00;;;0.00
+394;VIVEROS MENDOZA Andrea Giuliana;PAR;;;;;;;;;;;0.00;;;0.00
+395;CARRILLO Nicolle;PER;;;;;;;;;;;0.00;;;0.00
+396;MANON Ana;DOM;;;;;;;;;;;0.00;;;0.00
+397;NISHIWAKI Arisa;JPN;;0.00;;;;;;;;;;;;0.00
+398;JAEN SANTOS Ana Mercedes;PAN;;;;;;;;;;;0.00;;;0.00
+399;CARRERA Keren;PAN;;;;;;;;;;;0.00;;;0.00
+400;PACHECO LUGO Valeria Sophia;PUR;;0.00;;;;;;;;;;;;0.00
+401;ARMSTRONG CRUZ Milyvette Marie;PUR;;0.00;;;;;;;;;;;;0.00
+402;VAINBERG Sophia;ISR;;;;;;0.00;;;;;;;;0.00
+403;DIAZ RIOS Bibiana;PUR;;0.00;;;;;;;;;;;;0.00
+403;KIRSCHNER Ziv;ISR;;;;;;0.00;;;;;;;;0.00
+405;ZELENOV Maria;ISR;;;;;;0.00;;;;;;;;0.00
+405;ROBLES VEGA Carla Paola;PUR;;0.00;;;;;;;;;;;;0.00
+407;VERTMAN Elizaveta;ISR;;;;;;0.00;;;;;;;;0.00
+407;RAMOS COLON Samara;PUR;;0.00;;;;;;;;;;;;0.00
+409;ZINGERMAN Daniel;ISR;;;;;;0.00;;;;;;;;0.00
+410;KREYNITZ Karin;ISR;;;;;;0.00;;;;;;;;0.00
+411;MIKHAILOV Lotan;ISR;;;;;;0.00;;;;;;;;0.00
+411;OSSIPOV Viki;ISR;;;;;;0.00;;;;;;;;0.00
+413;SHARIF Razan;PLE;;;;;;;;;;;;0.00;;0.00
+414;DADOSH Keren;ISR;;;;;;0.00;;;;;;;;0.00
+414;SAFI Malak;PLE;;;;;;;;;;;;0.00;;0.00
+416;ABED Nada;KSA;;;;;;;;;;;;0.00;;0.00
+416;TAL Sharon;ISR;;;;;;0.00;;;;;;;;0.00
+418;SHWARTSMAN Shantelle;ISR;;;;;;0.00;;;;;;;;0.00
+418;YEGENMYRADOVA Lachyn;TKM;;;;;;;;;;;;0.00;;0.00
+420;ALKHIBIRI Fawzya;KSA;;;;;;;;;;;;0.00;;0.00
+421;TAHER Dana;PLE;;;;;;;;;;;;0.00;;0.00
+422;FARHAN Lujain;JOR;;;;;;;;;;;;0.00;;0.00
+423;NONIS Karen;AUS;;;;;;;;;;;;0.00;;0.00
+424;JINDAL Lagan;IND;;;;;;;;;;;;0.00;;0.00
+425;ALVIM Maria;POR;;;;0.00;;;;;;0.00;;;;0.00
+426;BILAL Shouq;UAE;;;;;;;;;;;;0.00;;0.00
+426;MUMTAJ Mumtaj;IND;;;;;;;;;;;;0.00;;0.00
+428;ALSHAMMA Reem;UAE;;;;;;;;;;;;0.00;;0.00
+429;AL FAWAEER Nour;JOR;;;;;;;;;;;;0.00;;0.00
+430;ALVES Marta;POR;;;;0.00;;;;;;0.00;;;;0.00
+431;PALK Madli;EST;;;;;;;;;;0.00;;;;0.00
+432;POYSTI Laura;FIN;;;;;;;0.00;;;0.00;;;0.00;0.00
+433;SA Madalena;POR;;;;0.00;;;;;;0.00;;;0.00;0.00
+434;DE LANDTSHEER Ellen;BEL;;;0.00;0.00;;;;0.00;;;;;;0.00
+435;ZENS Anna;LUX;;;0.00;;;;;;;;;;;0.00
+436;VILLARD Louise-Amelie;FRA;;;;;;;;0.00;;;;;;0.00
+437;AMADOR Marta;ESP;;;;;0.00;;;;;;;;;0.00
+437;LURYE Sarah;USA;;;0.00;;;;;;;;;;;0.00
+439;LOH Pauline;GER;;;;0.00;0.00;;;;;;;;;0.00
+440;LUI Leanna;CAN;;;0.00;;;;;;;;;;;0.00
+440;SZONDI Laura;HUN;;;;;0.00;;;;;;;;;0.00
+442;VERRI Erica;ITA;;;;;;;;0.00;;;;;;0.00
+443;KUZNETSOVA Jelizaveta;EST;;;0.00;;0.00;;;;;;;;;0.00
+444;GRABOVSKYTE Lurde;LTU;;;;;;;;;;;;;0.00;0.00
+445;SOTNIKAVA Darya;BLR;;;;;;;;;;;;;0.00;0.00
+446;PATCHEN Alexandra;AUS;;;0.00;0.00;;;;;;;;;;0.00
+447;SADLER Louise;GBR;;;;;;;;0.00;;;;;;0.00
+448;BESTER Natania;RSA;;;;;;;;;;;;;0.00;0.00
+448;DI SARNO Lucia;ITA;;;;;0.00;;;;;;;;;0.00
+450;ELSHAMY.A Inour;EGY;;;;;;;;;;;;;0.00;0.00
+451;JASKULLA Klara;GER;;;;;;;;0.00;;;;;;0.00
+451;TOFFELMIRE Amelia;USA;;;;;;;;0.00;;;;;;0.00
+453;WATANABE Ami;JPN;;;0.00;;;;;;;;;;;0.00
+454;CARADO Keona Rose;PHI;;;;;;;;;;;;;0.00;0.00
+454;ICHIKAWA Mariko;JPN;;;0.00;;;;;;;;;;;0.00
+456;MOISEEVA Ekaterina;RUS;;;0.00;;;;;;;;;;;0.00
+457;ROSKOVA Sonja;SVK;;;0.00;0.00;0.00;;0.00;0.00;;;;;;0.00
+458;BEAUNES Eloise;FRA;;;;;;;;0.00;;;;;;0.00
+459;BURKHARD Isabelle;SUI;;;0.00;;;;;;;;;;;0.00
+460;DAURAT Carla;FRA;;;;;;;;0.00;;;;;;0.00
+461;VAN DE VELDE Noa;BEL;;;0.00;;;;;0.00;;;;;;0.00
+462;DUDLEY Amelia;GBR;;;;;0.00;;;;;;;;;0.00
+462;REKUTE Monika;LTU;;;;;;;;;;;;;0.00;0.00
+464;DINIS Luana;POR;;;;0.00;;;;;;;;;0.00;0.00
+465;STRZELCZYK Olga;POL;;;0.00;;;;;;;;;;;0.00
+466;ALIS JUNADY Jeanna Leia;MAS;;;;;;;;;;;;;0.00;0.00
+466;IWAO Karen;JPN;;;0.00;;;;;;;;;;;0.00
+468;LULEVA Ekaterina;BUL;;;;;;;;;;;;;0.00;0.00
+469;AIGERMANOVA Gabriela;CZE;;;;;0.00;;0.00;;;;;;;0.00
+470;GLINKIN Karol-Liina;EST;;;0.00;;;;;;;;;;;0.00
+470;PRAXMARER Leonore;AUT;;;;;0.00;;;;;;;;;0.00
+472;HEAPS Jasmine;GBR;;;;;0.00;;;;;;;;;0.00
+473;AMER Mariam;EGY;;;;;;;;;;;;;0.00;0.00
+474;MISAKI Saaya;JPN;;;0.00;;;;;;;;;;;0.00
+475;TSIRONI Anna;GRE;;;;;;;;;;;;;0.00;0.00
+475;VUCKOVIC SOKOVIC Viktorija;CRO;;;;;0.00;;;;;;;;;0.00
+475;HEBAL Celia;ALG;;;;;0.00;;;;;;;;;0.00
+478;RAKHIMOVA Sevara;UZB;;;;;;;;;;;;;0.00;0.00
+479;LAM Hui Xin;SGP;;;;;;;;;;;;;0.00;0.00
+480;PRAFIL CAPACCIO Rayllen Delfina;ARG;;;;;;;;;;;;;0.00;0.00
+480;WHITEHEAD Lily;AUS;;;;;;;;;;;;;0.00;0.00
+482;BERMEJO Julia;PER;;;;;;;;;;;;;0.00;0.00
+482;BRANDONI Lara;PER;;;;;;;;;;;;;0.00;0.00
+484;CHEN Syuan-Yu;TPE;;;;0.00;;;;;;;;;;0.00
+485;GIL LOPEZ Carlota;ESP;;;;0.00;;;;;;;;;;0.00
+486;PASCHE Alyssa;SUI;;;;0.00;;;;;;;;;;0.00
+486;TENO Raquel;ESP;;;;0.00;;;;;;;;;;0.00
+488;FRYSTACKA Patrycja;POL;;;;;;;0.00;;;;;;;0.00
+489;COOPER Claire;NZL;;;;;;;0.00;;;;;;;0.00
+490;VIDAL Paula;ESP;;;;0.00;;;;;;;;;;0.00
+491;KORINKOVA Magdalena;CZE;;;;;;;0.00;;;;;;;0.00
+492;MARQUES Ana Rita;POR;;;;0.00;;;;;;;;;;0.00
+493;TOKUSHIMA Sae;JPN;;;;0.00;;;;;;;;;;0.00
+494;LIN Yun-Jen;TPE;;;;0.00;;;;;;;;;;0.00
+494;LESNIEWSKA Marta;POL;;;;0.00;;;;;;;;;;0.00
+496;SCETKO Patricija;LTU;;;;;;;0.00;;;;;;;0.00
+496;LEVER Rachael;GBR;;;;;;;0.00;;;;;;;0.00
+498;CAMPBELL Tamsyn;NZL;;;;;;;0.00;;;;;;;0.00
+499;GONZALEZ RIVERAS Sara;ESP;;;;0.00;;;;;;;;;;0.00
+500;DROR Yasmin Bertin;ISR;;;;0.00;;;;;;;;;;0.00
+501;THIM Lovisa;SWE;;;;0.00;;;0.00;;;;;;;0.00
+502;RODRIGUEZ GOMEZ Naiara;ESP;;;;0.00;;;;;;;;;;0.00
+503;GRAMAGE Blanca;ESP;;;;0.00;;;;;;;;;;0.00
+504;STRAKOVA Julianna;SVK;;;;;;;0.00;;;;;;;0.00
