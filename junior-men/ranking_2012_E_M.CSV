@@ -1,0 +1,554 @@
+RANK;ATHLETE;NATION;Luxembourg A;Bratislava A;Espoo Helsinki A;Teheran A;Lignano Sabbiadoro A;Bâle A;Goteborg A;Budapest A;Alger CHZ;Porec CHZ;Estado de Vargas CHZ;Moscow CHM;TOTAL
+1;VON DER OSTEN Frederik;DEN;20.00;4.00;32.00;32.00;8.00;0.00;14.00;0.00;;48.00;;35.00;193.00
+2;FICHERA Marco;ITA;;32.00;;;32.00;0.00;20.00;32.00;;6.00;;35.00;157.00
+3;BIDA Sergey;RUS;;0.00;26.00;;4.00;32.00;;20.00;;6.00;;50.00;138.00
+4;BERTA Daniel;HUN;32.00;0.00;;;2.00;14.00;;2.00;;12.00;;65.00;127.00
+5;VALLOSIO Andrea;ITA;14.00;14.00;4.00;;4.00;0.00;8.00;26.00;;12.00;;5.00;87.00
+6;PARK Sangyoung;KOR;;;;;;;;;;;;80.00;80.00
+7;SANCHEZ RODRIGUEZ Guillermo;ESP;8.00;;8.00;;;;0.00;8.00;;6.00;;50.00;80.00
+8;HAMAR Balazs;HUN;;26.00;;;4.00;;;8.00;;30.00;;10.00;78.00
+9;ANOKHIN Vadim;RUS;;4.00;14.00;;4.00;14.00;;0.00;;39.00;;0.00;75.00
+10;FREILICH Yuval Shalom;ISR;;4.00;8.00;;8.00;;8.00;;;30.00;;10.00;68.00
+11;NIGGELER Michele;SUI;4.00;0.00;2.00;;26.00;4.00;2.00;2.00;;6.00;;20.00;66.00
+12;GLAZKOV Nikita;RUS;;;;;0.00;20.00;;4.00;;21.00;;20.00;65.00
+13;SANTARELLI Andrea;ITA;;2.00;;;14.00;0.00;;8.00;;6.00;;35.00;65.00
+14;CLENIN Laurent;SUI;26.00;4.00;8.00;;14.00;2.00;2.00;0.00;;3.00;;5.00;64.00
+15;BODOCZI Nikolaus;GER;14.00;4.00;;;4.00;2.00;20.00;4.00;;12.00;;0.00;60.00
+16;IHAB Omar;EGY;;;;;;;;0.00;48.00;;;10.00;58.00
+17;SCHMIDT Richard;GER;8.00;20.00;;;2.00;8.00;8.00;0.00;;6.00;;5.00;57.00
+18;MELOCCHI Tomaso;ITA;20.00;0.00;8.00;;2.00;4.00;14.00;8.00;;;;;56.00
+19;BOJTE Yusuf;TUR;4.00;14.00;0.00;8.00;20.00;4.00;;0.00;;6.00;;0.00;56.00
+20;SOKOLOVSKI Vitali;BLR;14.00;0.00;14.00;8.00;;8.00;4.00;0.00;;3.00;;5.00;56.00
+21;FERREIRA Nicolas;BRA;;;;;;0.00;0.00;0.00;;;48.00;5.00;53.00
+22;TURNAU Peeter;EST;;14.00;8.00;;;;0.00;4.00;;6.00;;20.00;52.00
+23;LOURENCO Vasco;POR;2.00;2.00;20.00;;;;2.00;0.00;;12.00;;10.00;48.00
+24;ESPOSITO Simone;ITA;;0.00;8.00;;0.00;8.00;14.00;14.00;;3.00;;;47.00
+25;ROD Max;POR;2.00;2.00;0.00;;20.00;0.00;4.00;0.00;;12.00;;5.00;45.00
+26;FAYEZ Sherif;EGY;;;;;;;;;39.00;;;5.00;44.00
+27;ZERBIB Ken-Elie;FRA;;2.00;;;8.00;;2.00;4.00;;6.00;;20.00;42.00
+28;MARSH Philip;GBR;;;;;4.00;;32.00;;;;;5.00;41.00
+29;MAYA Sylvain;FRA;;8.00;;;0.00;;0.00;2.00;;21.00;;10.00;41.00
+30;KHESIN Alexander;RUS;;8.00;4.00;;;26.00;;2.00;;;;;40.00
+31;ROBL Troels Christian;DEN;2.00;0.00;0.00;20.00;0.00;2.00;8.00;;;3.00;;5.00;40.00
+32;SALEH Saleh;EGY;;;;;;;;0.00;30.00;;;10.00;40.00
+33;SVICHKAR Roman;UKR;;2.00;;;2.00;;0.00;14.00;;12.00;;10.00;40.00
+34;MAGRO Andrea;ITA;;0.00;;;8.00;14.00;14.00;4.00;;;;;40.00
+35;BUZZI Lorenzo;ITA;8.00;2.00;;;4.00;4.00;8.00;14.00;;;;;40.00
+36;MAISONET Hector;PUR;;;;;;;;;;;39.00;;39.00
+37;KALININ Alexey;RUS;;20.00;4.00;;8.00;2.00;;2.00;;3.00;;;39.00
+38;LOPATENKO Andrii;UKR;4.00;0.00;2.00;;0.00;2.00;2.00;20.00;;3.00;;5.00;38.00
+39;PIREK Valentin;SUI;8.00;2.00;0.00;;14.00;4.00;;2.00;;3.00;;5.00;38.00
+40;SERENELLI Ivo;ARG;;;;;;;;0.00;;;30.00;5.00;35.00
+41;LI Zhen;CHN;;;;;;;;;;;;35.00;35.00
+42;HUDSON Jack;GBR;;4.00;;;4.00;;26.00;;;;;0.00;34.00
+43;PEREIRA Yulen;ESP;14.00;;0.00;;2.00;;2.00;4.00;;12.00;;0.00;34.00
+44;SENDUT Emir;TUR;;;;8.00;0.00;0.00;2.00;0.00;;3.00;;20.00;33.00
+45;SADOUN Mokhtar;ALG;;;;;;;;;30.00;;;0.00;30.00
+46;SANCHEZ Cristian;VEN;;;;;;;;;;;30.00;0.00;30.00
+47;RAFIDI Joseph;USA;;2.00;;;;0.00;8.00;;;;;20.00;30.00
+48;LEISER Rico;GER;;0.00;;;0.00;20.00;4.00;0.00;;3.00;;;27.00
+49;KASE Robin;SWE;2.00;4.00;14.00;;2.00;0.00;0.00;2.00;;3.00;;0.00;27.00
+50;FARMER Alexander Bryan;SVK;2.00;8.00;;;0.00;14.00;0.00;;;3.00;;0.00;27.00
+51;ZOZULYA Maksym;UKR;;2.00;2.00;;2.00;;8.00;0.00;;3.00;;10.00;27.00
+52;DANILEJKO Maxim;GER;2.00;8.00;;;0.00;4.00;2.00;8.00;;3.00;;0.00;27.00
+53;AZADIAN Saman;IRI;;;;26.00;;;;;;;;0.00;26.00
+54;NOLLNER Dylan;USA;;4.00;0.00;;;;2.00;;;;;20.00;26.00
+55;KHACHATRYAN Robert;ARM;;;;20.00;;;;0.00;;;;5.00;25.00
+56;RUBES Martin;CZE;4.00;0.00;;;;8.00;4.00;;;3.00;;5.00;24.00
+57;PRISTERA Mattia;ITA;4.00;8.00;;;0.00;4.00;;8.00;;;;;24.00
+58;MELARAGNO Guilherme;BRA;;;;;;;;2.00;;;21.00;0.00;23.00
+59;CIOVICA Lucian;ROU;;0.00;0.00;;;;;2.00;;21.00;;0.00;23.00
+60;BOURGEOIS Louis;SUI;2.00;14.00;4.00;;2.00;;;;;0.00;;;22.00
+61;ANDREANA Gianmarco;ITA;2.00;;4.00;;8.00;8.00;;;;;;;22.00
+62;GOLOBIC Jan;SLO;;0.00;;;0.00;;;0.00;;12.00;;10.00;22.00
+63;HERNANDEZ Eduar;VEN;;;;;;;;;;;21.00;;21.00
+63;FITAS Anouar;ALG;;;;;;;;;21.00;;;;21.00
+65;MACEDO Lucas;BRA;;;;;;;;0.00;;;21.00;;21.00
+66;BAOUCHE Mehdi;ALG;;;;;;;;;21.00;;;;21.00
+67;LANNO Georg-Marten;EST;;0.00;0.00;;;;0.00;;;21.00;;0.00;21.00
+68;SHERIF Adham;EGY;;;;;;;;;21.00;;;;21.00
+69;SAGNAN Bourama Keba;SEN;;;;;;;;;21.00;;;0.00;21.00
+70;ROA Hernando;COL;;;;;;;;;;;21.00;;21.00
+71;CARNEAU Theo;FRA;;8.00;;;0.00;;0.00;2.00;;6.00;;5.00;21.00
+72;SOLOMKO Fedor;RUS;;0.00;20.00;;;;;;;;;;20.00
+73;CITRO Fabrizio;ITA;;;2.00;;0.00;;4.00;14.00;;;;;20.00
+74;LOCCI Lorenzo;ITA;;;;;14.00;4.00;0.00;2.00;;;;;20.00
+75;BONTES Tom;NED;;;;;;;;;;;;20.00;20.00
+76;KARADENIZ Okan;TUR;;;;8.00;2.00;2.00;0.00;2.00;;;;5.00;19.00
+77;KUHN Georg;SUI;4.00;0.00;0.00;;2.00;8.00;4.00;;;;;;18.00
+78;KISS Gergo;HUN;;0.00;;;4.00;;;2.00;;6.00;;5.00;17.00
+79;LIU Chzhan Shan;RUS;;;14.00;;2.00;;;;;;;;16.00
+80;BOGOYAVLENSKIY Bogdan;RUS;;4.00;4.00;;4.00;4.00;;0.00;;;;;16.00
+81;FREWIN James;GBR;;0.00;;;0.00;2.00;4.00;;;;;10.00;16.00
+82;BOLBOCEANU Tatian;ROU;;0.00;;;;;;0.00;;6.00;;10.00;16.00
+83;GUBIN Nikita;RUS;;0.00;4.00;;4.00;4.00;;4.00;;;;;16.00
+84;ZHAKUPOV Kirill;KAZ;;;;;;;2.00;4.00;;;;10.00;16.00
+85;DERYABIN Ivan;KAZ;;;;;;;4.00;2.00;;;;10.00;16.00
+86;NOVOTNY Ondrej;CZE;2.00;0.00;0.00;;;2.00;0.00;2.00;;0.00;;10.00;16.00
+87;ADONAI Christopher;FRA;;;;;4.00;;0.00;8.00;;3.00;;;15.00
+88;MELLANEN Rasmus;FIN;2.00;2.00;4.00;;0.00;2.00;0.00;;;0.00;;5.00;15.00
+89;ROSLANDER Kasper;FIN;;;0.00;;;;4.00;;;6.00;;5.00;15.00
+90;JAFARI Hossein;IRI;;;;14.00;;;;;;;;;14.00
+91;ALIYEV Kanan;AZE;;;;14.00;;;;;;;;0.00;14.00
+92;ANIL Murtaza Berkan;TUR;;0.00;;14.00;0.00;0.00;;;;;;;14.00
+93;MORADI Behdad;IRI;;;;14.00;;;;;;;;;14.00
+94;SMYRNOVSKYY Serhiy;UKR;4.00;8.00;;;2.00;0.00;0.00;0.00;;;;;14.00
+95;BALDACCI Luca;ITA;;0.00;8.00;;0.00;;2.00;4.00;;;;;14.00
+96;PINTO Santiago;COL;;0.00;0.00;;0.00;0.00;2.00;;;;12.00;0.00;14.00
+97;WEITBRECHT Moritz;GER;8.00;2.00;;;0.00;2.00;2.00;0.00;;;;;14.00
+98;ANTKIEWICZ Mateusz;POL;;0.00;8.00;;;;0.00;0.00;;6.00;;0.00;14.00
+99;SCARSI Simone;ITA;8.00;;4.00;;2.00;;;0.00;;;;;14.00
+100;KREILEIN Robert;GER;4.00;4.00;;;4.00;0.00;2.00;0.00;;;;;14.00
+101;KHALAFI Amir;IRI;;;;8.00;;;;;;;;5.00;13.00
+102;WENGLARCZYK Jan;POL;;2.00;2.00;;;;4.00;2.00;;3.00;;;13.00
+103;DOLAR Robin;SLO;0.00;0.00;;;0.00;0.00;;0.00;;3.00;;10.00;13.00
+104;ARROYO Ellison;PUR;;;;;;;;;;;12.00;;12.00
+105;ASUAJE POLANCO Alexander;VEN;;;;;;;0.00;0.00;;;12.00;;12.00
+106;RODRIGUES Luiz;BRA;;;;;;;;0.00;;;12.00;;12.00
+107;EFROSININ Alexei;ITA;;;;;4.00;8.00;;;;;;;12.00
+108;JIMENEZ ORTIZ Aaron Jose;VEN;;;;;;;;;;;12.00;;12.00
+109;RIVERA RIVERA Christian J.;PUR;;;;;;;;;;;12.00;;12.00
+110;MASSOT Raphael;FRA;;;;;0.00;;4.00;8.00;;;;;12.00
+111;RODRIGUEZ Luis Rafael;DOM;;;;;;;;;;;12.00;;12.00
+112;SANABRIA SANABRIA Daniel;CRC;;;;;;;;;;;12.00;0.00;12.00
+113;WEIDLICH Reinhard;GER;4.00;0.00;;;0.00;4.00;0.00;4.00;;;;;12.00
+114;GYORFFY Kristof;HUN;;2.00;;;2.00;;;4.00;;3.00;;;11.00
+115;LYSSOV Alexandre;CAN;;;2.00;;4.00;;;;;;;5.00;11.00
+116;LAMPERTZ Guillaume;BEL;2.00;0.00;2.00;;0.00;2.00;2.00;;;3.00;;0.00;11.00
+117;ARNANZ Adrian;ESP;2.00;;;;2.00;0.00;0.00;2.00;;0.00;;5.00;11.00
+118;MAUNZ Florian;GER;8.00;0.00;;;0.00;2.00;0.00;0.00;;;;;10.00
+119;HARANDZHA Mykhaylo;UKR;;;;;8.00;;0.00;2.00;;;;;10.00
+120;CHO TAEUN Sandor;HUN;;4.00;;;2.00;;;4.00;;;;;10.00
+121;FRAS Felix;POL;;0.00;2.00;;;;0.00;2.00;;6.00;;;10.00
+122;JUNG Byeungchan;KOR;;;;;;;;;;;;10.00;10.00
+123;WAN Justin;USA;;4.00;2.00;;;4.00;0.00;;;;;;10.00
+124;KUCHALSKI Tim;GER;4.00;0.00;;;0.00;4.00;0.00;2.00;;;;;10.00
+125;HARTMANN Florian;AUT;4.00;0.00;2.00;;0.00;0.00;0.00;;;3.00;;0.00;9.00
+126;TYMO Evgen;UKR;;0.00;0.00;;2.00;;0.00;4.00;;3.00;;;9.00
+127;KRUK Tomasz;POL;;4.00;2.00;;;;0.00;0.00;;3.00;;;9.00
+128;HAY Christopher;GBR;;4.00;;;0.00;;2.00;;;3.00;;;9.00
+129;AMANN Spencer;USA;;0.00;;;;8.00;0.00;;;;;;8.00
+130;CORBION Meeidhy;FRA;;0.00;;;8.00;;0.00;0.00;;;;;8.00
+131;FAAL Omid;IRI;;;;8.00;;;;;;;;;8.00
+132;CHUBENKO Mikhail;RUS;;8.00;;;0.00;;;;;;;;8.00
+133;JOKINEN Simon;SWE;;;;;;;8.00;;;0.00;;;8.00
+134;JAUERNIK Christian;DEN;;0.00;;8.00;;;0.00;;;0.00;;0.00;8.00
+135;ARAZYAN Karen;ARM;;;;8.00;;;;;;;;0.00;8.00
+136;OLIVEIRA Miguel;POR;8.00;0.00;;;;;;;;;;;8.00
+137;BRUNOLD Bruce;SUI;0.00;0.00;2.00;;0.00;4.00;2.00;0.00;;;;;8.00
+138;ELDEIB Alexander;USA;;0.00;2.00;;;2.00;4.00;;;;;0.00;8.00
+139;SAINTE ROSE Thomas;FRA;;2.00;;;2.00;;4.00;0.00;;;;;8.00
+140;TALLAR Akos;HUN;;4.00;;;2.00;;;2.00;;;;;8.00
+141;BOGARD Matt;USA;;;4.00;;;;4.00;;;;;;8.00
+142;SMOLKA Mikolaj;POL;;0.00;4.00;;;;2.00;2.00;;;;;8.00
+143;OBERSON Philippe;SUI;4.00;2.00;0.00;;0.00;2.00;0.00;;;;;;8.00
+144;STYN Robert;GER;;2.00;;;2.00;2.00;2.00;0.00;;;;;8.00
+145;DRIZIN Ariel;ISR;;;0.00;;0.00;;0.00;;;3.00;;5.00;8.00
+146;VUJTECH Jakub;CZE;4.00;0.00;0.00;;;0.00;0.00;0.00;;3.00;;;7.00
+147;GEORGES Guillaume;BEL;2.00;0.00;;;;2.00;0.00;;;3.00;;;7.00
+148;HUTCHINSON Kerr;CAN;;;2.00;;;;;;;;;5.00;7.00
+149;HABARTA Ondrej;CZE;0.00;0.00;;;;2.00;;0.00;;0.00;;5.00;7.00
+150;LUCCHETTI Santiago;ARG;;;;;;;;;;;6.00;0.00;6.00
+151;PINILLA Arthur;COL;;;;;;;;;;;6.00;;6.00
+152;ABRAMIUK Danil;RUS;;;4.00;;;2.00;;0.00;;;;;6.00
+153;NEMTYREV Konstantin;RUS;;2.00;4.00;;;;;;;;;;6.00
+154;BERNAT Barna;HUN;;0.00;;;2.00;4.00;0.00;0.00;;;;;6.00
+155;MONOD Hadrien;SUI;4.00;0.00;;;;2.00;0.00;;;;;;6.00
+156;LOVRIC Ivan;CRO;;0.00;;;0.00;;;;;6.00;;0.00;6.00
+157;KOMAROMY-POROS Csongor;HUN;;2.00;;;0.00;;;4.00;;;;;6.00
+158;CONEYS Ulysse;IRL;4.00;0.00;;;2.00;;0.00;;;0.00;;0.00;6.00
+159;ADAM Matous;CZE;2.00;0.00;;;;4.00;;;;;;;6.00
+160;OBERSON Alexandre;SUI;2.00;;2.00;;2.00;0.00;0.00;;;;;;6.00
+161;KARYUCHENKO Yevgeniy;UKR;;2.00;;;0.00;;2.00;2.00;;;;;6.00
+162;HAUTERVILLE Jonathan;FRA;;2.00;;;2.00;;2.00;;;;;;6.00
+163;NAGY Attila;HUN;;2.00;;;2.00;;;2.00;;;;;6.00
+164;JIANG Chenyang;CHN;;;;;;;;;;;;5.00;5.00
+165;YAMADA Masaru;JPN;;;;;;;0.00;;;;;5.00;5.00
+166;TRANDAFIRESCU Ionut;ROU;;2.00;0.00;;;;;0.00;;3.00;;0.00;5.00
+167;NG Ho Tin;HKG;;;;;;;;;;;;5.00;5.00
+168;MAYALL-VANDERVELDE Henry;AUS;;;;;;;;;;;;5.00;5.00
+169;BERG NIEMELA Anton;SWE;;0.00;;;;;2.00;;;3.00;;;5.00
+170;IBARRA Dario;MEX;;;;;;;;;;;;5.00;5.00
+171;TACCANI Alessandro;ARG;;;;;;;;0.00;;;;5.00;5.00
+172;PARISSE Olivier;BEL;0.00;;0.00;;0.00;2.00;0.00;;;3.00;;;5.00
+173;HANINA Saar;ISR;;;0.00;;;;0.00;;;0.00;;5.00;5.00
+174;KANANI Amir Reza;IRI;;;;4.00;;;;;;;;;4.00
+175;REZAEI Mehdi;IRI;;;;4.00;;;;;;;;;4.00
+175;GARZO Zsombor;HUN;;;;;;;;4.00;;;;;4.00
+177;ARAZYAN Armen;ARM;;;;4.00;;;;;;;;;4.00
+178;WEISS Lewis;USA;;;0.00;;;0.00;4.00;;;;;;4.00
+179;SAFAR Cirill;HUN;;;;;0.00;;;4.00;;;;;4.00
+180;BEIK Behnam;IRI;;;;4.00;;;;;;;;;4.00
+181;BANYAI Zsombor;HUN;;4.00;;;0.00;;;0.00;;;;;4.00
+182;NICKELS Alexeij;LUX;4.00;;;;;0.00;;;;;;;4.00
+183;AHMED Dhahi;IRQ;;;;4.00;;;;;;;;0.00;4.00
+184;GHARAGYOZYAN Henrik;ARM;;;;4.00;;;;;;;;0.00;4.00
+185;KHOJOYAN Artur;ARM;;;;4.00;;;;;;;;;4.00
+186;SAGHASAR Ramin;IRI;;;;4.00;;;;;;;;;4.00
+186;CIMINI Gabriele;ITA;;;;;4.00;;;;;;;;4.00
+188;TSUE Aoi;JPN;;;;;;;4.00;;;;;0.00;4.00
+189;MAMMADOV Farid;AZE;;;;4.00;;;;;;;;;4.00
+190;MAHARRAMOV Najaf;AZE;;;;4.00;;;;;;;;;4.00
+191;CHEREPAKHOV Mykyta;UKR;;0.00;4.00;;0.00;;;0.00;;;;;4.00
+192;BILANISHVILI Shalva;GEO;;;;4.00;;;;;;;;;4.00
+193;KOCHARYAN Artur;ARM;;;;4.00;;;;;;;;;4.00
+194;SHOJAEI Mohammad;IRI;;;;4.00;;;;;;;;;4.00
+195;MOHAMMADNIA Esmaeil;IRI;;;;4.00;;;;;;;;;4.00
+196;MICHON Alessandro;LBN;;;4.00;;0.00;;;;;;;;4.00
+197;SADEGHIAN Alireza;IRI;;;;4.00;;;;;;;;;4.00
+198;FREIMAN Benjamin;USA;;;4.00;;;0.00;0.00;;;;;;4.00
+199;NOROZI Mahdi;IRI;;;;4.00;;;;;;;;;4.00
+200;IBANEZ Alvaro;ESP;2.00;;;;0.00;2.00;0.00;0.00;;;;;4.00
+201;IVANOV Kirill;RUS;;2.00;2.00;;;;;;;;;;4.00
+202;GENTY Maximilien;FRA;;2.00;;;2.00;;0.00;;;;;;4.00
+203;REGIBEAU Gaspard;BEL;2.00;0.00;0.00;;0.00;2.00;0.00;;;0.00;;;4.00
+204;NORIS Amedeo;ITA;2.00;;0.00;;2.00;;;;;;;;4.00
+205;HAXAIRE Pierre;FRA;;;;;2.00;;2.00;;;;;;4.00
+206;HENDERSON Matt;GBR;;2.00;0.00;;0.00;2.00;0.00;;;;;;4.00
+207;VESTERINEN Verneri;FIN;2.00;2.00;0.00;;0.00;0.00;0.00;;;0.00;;0.00;4.00
+208;CANING Klaus Albert;DEN;;0.00;0.00;;;;0.00;0.00;;3.00;;;3.00
+209;KOMAN Robert;SLO;0.00;0.00;;;0.00;0.00;;0.00;;3.00;;0.00;3.00
+210;MUTSENIK Stanislav;EST;;0.00;0.00;;;;0.00;;;3.00;;0.00;3.00
+211;STALDER Leonard;SUI;2.00;;;;;;;;;;;;2.00
+211;OLEIWI Ali;IRQ;;;;2.00;;;;;;;;;2.00
+213;SIDOROV Alexey;RUS;;0.00;2.00;;;;;;;;;;2.00
+214;SEEVE Teemu;FIN;2.00;0.00;;;;;;;;;;;2.00
+215;AAGENAES Haakon;NOR;;;;;;;2.00;;;;;;2.00
+216;MURANA Luca;ITA;0.00;;2.00;;;;;;;;;;2.00
+217;HAGLUND Andreas;SWE;;;0.00;;;;2.00;;;;;;2.00
+218;KACHAN Volodymyr;UKR;;0.00;2.00;;0.00;;;;;;;;2.00
+219;FINK Cedric;SUI;;;;;;2.00;;;;;;;2.00
+220;VERHELLE Nicolas;BEL;2.00;0.00;0.00;;0.00;0.00;0.00;;;;;;2.00
+221;PITTET Alexandre;SUI;;;;;;2.00;;;;;;;2.00
+222;ROK Mateusz;POL;;0.00;0.00;;;;0.00;2.00;;;;;2.00
+223;KARLSEN Knut Martin;NOR;;;;;;;2.00;;;;;;2.00
+224;MANZANARES Guillen;ESP;;;0.00;;;2.00;;;;;;;2.00
+225;VINNICKY Ariel;ISR;;;;;;;2.00;;;;;;2.00
+226;KOESTER Logan;USA;;2.00;;;;0.00;;;;;;;2.00
+227;WILEY Joseph;USA;;0.00;2.00;;;;;;;;;;2.00
+228;GIACOPINI Achille;SUI;2.00;0.00;;;;;;;;;;;2.00
+229;GONZALEZ ALMARCHA Sergio;ESP;2.00;;;;;;;;;;;;2.00
+230;WALKER Alec;USA;;;0.00;;;2.00;;;;;;;2.00
+231;JEREMIAS Joao;POR;2.00;0.00;;;;;0.00;0.00;;0.00;;;2.00
+232;JARL Henrik;SWE;;2.00;0.00;;;;0.00;;;;;;2.00
+233;KITAMURA Naoyuki;JPN;;;;;;;2.00;;;;;0.00;2.00
+234;ELKORD Houssam;MAR;;;;;;;;2.00;;;;;2.00
+235;KAPRAL Martin;SVK;;0.00;;;;;;2.00;;;;;2.00
+236;GRIEBEL Thomas;GER;2.00;;;;;;;;;;;;2.00
+236;VEUTHEY Alvaro;ESP;;;2.00;;;;;;;;;;2.00
+236;TRIVELLI Sergio;ITA;;;;;2.00;;;;;;;;2.00
+239;MAREND Alexander;SWE;;0.00;2.00;;;;0.00;;;;;;2.00
+240;RADELET Kevin;BEL;2.00;0.00;0.00;;0.00;0.00;0.00;;;;;;2.00
+241;HAGLUND Daniel;SWE;;0.00;2.00;;;;0.00;;;0.00;;;2.00
+242;DURAN Jaime;ESP;2.00;;;;0.00;;0.00;;;;;;2.00
+243;DOLEJSI Marek;CZE;2.00;0.00;;;;0.00;;0.00;;;;;2.00
+244;VENCOVSKY Pavel;SVK;;2.00;;;0.00;;;;;;;;2.00
+245;PUJU Robin;HUN;;;;;;;;2.00;;;;;2.00
+246;SANCHEZ-LETHEM Paul James;GBR;;0.00;;;0.00;0.00;2.00;;;;;;2.00
+247;GUSEV Dmitriy;RUS;;;;;;;;2.00;;;;;2.00
+247;ROMERO Juan Pedro;ESP;;;2.00;;;;;;;;;;2.00
+249;CRECCHI Bernardo;ITA;;2.00;;;0.00;;;;;;;;2.00
+250;SINATRA Giacomo;ITA;;;2.00;;;;;;;;;;2.00
+251;DI BELLA Federico;ITA;;0.00;;;0.00;2.00;;;;;;;2.00
+252;FAJKIS Krystian;POL;;0.00;2.00;;;;0.00;0.00;;;;;2.00
+253;LAUPER Samuel;SUI;;0.00;2.00;;0.00;;;;;;;;2.00
+254;SORTINO Simone;ITA;;;;;2.00;;0.00;;;;;;2.00
+255;LOVASZ Adam;HUN;;0.00;;;;;;2.00;;;;;2.00
+256;BUERGER Fabian;GER;2.00;0.00;;;;;;;;;;;2.00
+257;RAYNIS Jake;USA;;2.00;;;;0.00;;;;;;;2.00
+258;SIEBER Armand;SUI;0.00;0.00;2.00;;0.00;0.00;;0.00;;;;;2.00
+259;MIGALLON Guillermo;ESP;0.00;;2.00;;0.00;;0.00;0.00;;0.00;;;2.00
+260;GREMION Robin;SUI;;0.00;2.00;;0.00;0.00;0.00;;;;;;2.00
+261;SZABO Bence;HUN;;;;;;;;2.00;;;;;2.00
+262;HUTTUNEN Pontus;FIN;2.00;0.00;0.00;;0.00;0.00;0.00;;;0.00;;;2.00
+263;DELARUE-BIZZINI Bernardo;BRA;;;0.00;;2.00;0.00;0.00;;;;;;2.00
+264;MAMRENKO Alexey;RUS;;0.00;;;;2.00;;;;;;;2.00
+265;LEHIS Margo;EST;;0.00;0.00;;;;2.00;0.00;;0.00;;;2.00
+266;RICHTER Arne;GER;;2.00;;;0.00;0.00;0.00;0.00;;;;;2.00
+267;HAIT Jonatan;ISR;;;2.00;;0.00;;0.00;;;0.00;;;2.00
+268;KOSAKA Issei;JPN;;;;;;;2.00;;;;;;2.00
+269;KORLATH Alexander;AUT;0.00;0.00;;;0.00;0.00;2.00;;;;;;2.00
+270;GUILHEM Romain;FRA;;;;;2.00;;0.00;;;;;;2.00
+271;MALCOTTI Lucas;SUI;;;;;;2.00;;;;;;;2.00
+272;MICKWITZ Valter;FIN;;;2.00;;;;0.00;;;;;;2.00
+273;BUCHHOLZ Lars;GER;2.00;;;;;;;;;;;;2.00
+274;BEZLI Nacer;ALG;;;;;;;;;0.00;;;;0.00
+275;NAHI Omar;MAR;;;;;;;;;0.00;;;;0.00
+276;MORALES BIDO David David;DOM;;;;;;;;;;;0.00;;0.00
+277;NIEVES COLON Luis A.;PUR;;;;;;;;;;;0.00;;0.00
+278;TORRES SANDI Daniel;CRC;;;;;;;;;;;0.00;0.00;0.00
+279;REYEZ Manuel;COL;;;;;;;;;;;0.00;;0.00
+280;NICKEL Heinz;CHI;;;;;;;;;;;0.00;0.00;0.00
+281;WISAM Oleiwi;IRQ;;;;0.00;;;;;;;;;0.00
+282;AZIZPOUR Hesam;IRI;;;;0.00;;;;;;;;;0.00
+283;YOUSEFI Ali;IRI;;;;0.00;;;;;;;;;0.00
+284;ATYAN Edgar;ARM;;;;0.00;;;;;;;;;0.00
+285;SALMAN Alialjasad;IRQ;;;;0.00;;;;;;;;;0.00
+286;RAMEZANI Saeid;IRI;;;;0.00;;;;;;;;;0.00
+287;ABRAHAMYAN Rafik;ARM;;;;0.00;;;;;;;;;0.00
+288;MIKAYELYAN Mikayel;ARM;;;;0.00;;;;;;;;;0.00
+289;KARAPETYAN Edgar;ARM;;;;0.00;;;;;;;;;0.00
+290;DIAS Artur;POR;0.00;0.00;0.00;;;;;;;0.00;;0.00;0.00
+291;KATHAN Leonard;AUT;0.00;;0.00;;0.00;0.00;0.00;;;;;;0.00
+292;STOJANOVIC Filip;SRB;;0.00;;;;;;0.00;;0.00;;;0.00
+293;ZOCHR Ladislav;CZE;0.00;0.00;;;;0.00;;;;;;;0.00
+294;BELLEMANS Julian;BEL;0.00;;;;;0.00;;;;;;;0.00
+295;TANG Oskar;SWE;;0.00;0.00;;;;0.00;;;;;;0.00
+296;EDWARDS Thomas;GBR;;0.00;;;0.00;0.00;0.00;;;;;;0.00
+297;KIM Gihyeon;KOR;;;;;;;;;;;;0.00;0.00
+298;REGINSTER Gregoire;BEL;0.00;0.00;;;0.00;0.00;0.00;;;;;;0.00
+299;TARANENKO Yuriy;UKR;;;0.00;;;;0.00;0.00;;;;;0.00
+300;BERRY Joffrey;FRA;;;;;;;;0.00;;;;;0.00
+301;MAYER Maximilian;AUT;0.00;;0.00;;0.00;0.00;;;;;;;0.00
+302;LEPERS Leo;FRA;;0.00;;;;;;;;;;;0.00
+303;MILIC Milos;SRB;;;;;;;;0.00;;0.00;;;0.00
+304;WIEGELL Mathias;DEN;;;0.00;;;;0.00;;;;;;0.00
+305;MURRAY RAMIREZ Froylan Emanuel;NCA;;;;;;;;;;;;0.00;0.00
+305;HUSSON Geoffroy;BEL;0.00;;;;;;;;;;;;0.00
+307;MUELLER NIELABA Gabriel;SUI;;;;;;0.00;;;;;;;0.00
+308;FRAPPIER Dominique;LUX;0.00;;;;;0.00;;;;;;;0.00
+309;YAKOVLEV Filipp;UZB;;;;;;;;;;;;0.00;0.00
+309;MANZINI Thulani;RSA;;;;;;;;;;;;0.00;0.00
+311;GUJINOVIC Luka;CRO;;0.00;;;0.00;;;0.00;;0.00;;0.00;0.00
+312;ADAIKIN Dmitriy;KAZ;;;;;;;0.00;0.00;;;;;0.00
+313;GIANNOTTE Flavio;LUX;0.00;;;;;0.00;;;;;;;0.00
+314;SCHIAVINA Marco;ITA;;0.00;;;0.00;;0.00;;;;;;0.00
+315;LUCANI Quentin;FRA;;0.00;;;0.00;;0.00;;;;;;0.00
+316;SIMPSON James;IRL;0.00;0.00;;;;;;;;;;;0.00
+317;LOPEZ POURTIER Nelson;FRA;;;;;;;;0.00;;;;;0.00
+318;SIKLOSI Gergely;HUN;;0.00;;;0.00;;;0.00;;;;;0.00
+319;KIENTZLE Jens;GER;;;;;0.00;0.00;0.00;;;;;;0.00
+320;TOOTHAKER Tycho;USA;;;0.00;;;;;;;;;;0.00
+321;MICHALAK Marcin;POL;;0.00;0.00;;;;;;;;;;0.00
+322;BUDEK Szczepan;POL;;0.00;0.00;;;;;;;;;;0.00
+323;PONNET Robin;BEL;0.00;;;;;;;;;;;;0.00
+324;JONES Simon;USA;;0.00;0.00;;;;;;;;;;0.00
+325;GLUHIC Gal;SLO;0.00;0.00;;;0.00;0.00;;0.00;;;;;0.00
+326;VERWOERD Jasper;NED;0.00;;;;;;;;;;;;0.00
+326;HOGUET Lucas;FRA;;0.00;;;;;;;;;;;0.00
+328;EMMANOUIL Georgios;GRE;;;;;;;;;;0.00;;;0.00
+328;DIXON Andrew Robert;GBR;;0.00;;;;;;;;;;;0.00
+330;GRASBECK Gunnar;FIN;0.00;0.00;0.00;;;0.00;0.00;;;;;;0.00
+331;KOLEHMAINEN Hannes;FIN;0.00;;0.00;;;;0.00;;;;;;0.00
+332;ZAFIROV Ivan;BUL;;0.00;;;0.00;;;;;;;0.00;0.00
+333;FREIMAN Samuel;USA;;;0.00;;;0.00;;;;;;;0.00
+334;LIMARDO Jesus;VEN;;;;;;;;;;;;0.00;0.00
+334;ROCCO Emanuele;ITA;;;;;0.00;;;;;;;;0.00
+336;LEMAIGRE Guillaume;BEL;0.00;0.00;0.00;;;0.00;0.00;;;;;;0.00
+337;MIELNICZEK Ignacy;POL;;;;;;;0.00;0.00;;;;;0.00
+338;IBRAHIM Ayyub;USA;;;;;;0.00;0.00;;;;;;0.00
+339;LEOMBRUNO Marco;ITA;;;;;0.00;;;;;;;;0.00
+340;KRICKIC David;CRO;;0.00;;;0.00;;;;;0.00;;;0.00
+341;VILCEANU Victor;ROU;;0.00;;;;;;0.00;;;;;0.00
+342;MOHSIN Abbas Abdulwahid;IRQ;;;;;;;;;;;;0.00;0.00
+342;GANNON-O'GARA Rene;USA;;;0.00;;;;;;;;;;0.00
+342;TANIGUCHI Takuya;JPN;;;;;;;0.00;;;;;;0.00
+345;ANDRES Alberto;ESP;;;0.00;;;;0.00;0.00;;;;;0.00
+346;RICUTA Laurentiu;ROU;;0.00;;;;;;0.00;;0.00;;;0.00
+347;EGERTZ-SKAANES Oskar;SWE;;0.00;0.00;;;;;;;;;;0.00
+348;GRIGORJEV Aleksandr;EST;;;0.00;;;;;;;;;;0.00
+349;SABAN Vedran;CRO;;0.00;;;0.00;;;0.00;;0.00;;;0.00
+350;KOLARIC Jovan;SRB;;0.00;;;;;;0.00;;0.00;;;0.00
+351;CHADO TODOROVSKI Vojdan;MKD;;;;;;;;;;;;0.00;0.00
+352;SANFELIU Albert;ESP;;;0.00;;0.00;0.00;;;;;;;0.00
+353;MOROV Jonathan;BUL;;0.00;;;;;;;;0.00;;;0.00
+354;VEGAS Borja;ESP;0.00;;;;;;;;;;;;0.00
+355;HERBERN Stian;NOR;;0.00;0.00;;;;0.00;0.00;;;;;0.00
+356;WINDELS Stijn;BEL;0.00;0.00;;;;;;;;;;;0.00
+357;ASHRAF Moustafa;EGY;;;;;;;;0.00;;;;;0.00
+357;NIESTROJ Daniel;POL;;;;;;;;0.00;;;;;0.00
+359;SCHOBER Maximilian;AUT;0.00;;0.00;;0.00;0.00;0.00;;;;;;0.00
+360;DE WIJN Zoa;NED;;;0.00;;;;;;;;;0.00;0.00
+361;CHENG Pak Hang;HKG;;;;;;;;;;;;0.00;0.00
+362;VASILIAUSKAS Andrius;LTU;;0.00;;;;;;;;0.00;;;0.00
+363;LUND Jonas;NOR;;;0.00;;;;;0.00;;;;;0.00
+364;GALINSKI Bartlomiej;POL;;0.00;0.00;;;;;;;;;;0.00
+365;HOUSE Alex;USA;;0.00;;;;;;;;;;;0.00
+365;MEJIA GARCIA Cristian Edenilson;ESA;;;;;;;;;;;;0.00;0.00
+367;CAMPILL Marco;LUX;0.00;;;;;0.00;;;;;;;0.00
+368;FISHLER Clifford;USA;;0.00;;;;;;;;;;;0.00
+368;YOSHIZAWA Naoki;JPN;;;;;;;0.00;;;;;;0.00
+370;NEGRAIA Bogdan;ROU;;0.00;;;;;;0.00;;;;;0.00
+371;NASZKOWSKI Kamil;POL;;;;;;;0.00;0.00;;;;;0.00
+372;GAUTHIER Romain;SUI;;;;;;0.00;;;;;;;0.00
+372;LAGUTOCKIN Maksim;TKM;;;;;;;;;;;;0.00;0.00
+374;KYLLONEN Markus;FIN;;;0.00;;;;0.00;;;;;;0.00
+375;XU Shenhua;CHN;;;;;;;;;;;;0.00;0.00
+376;BLAIS-BELANGER Marc-Antoine;CAN;;;;;;;0.00;;;;;0.00;0.00
+377;PAOLI Stefano;SUI;;;;;;0.00;;;;;;;0.00
+377;STANKEVYCH Volodymyr;UKR;;;0.00;;;;;;;;;;0.00
+379;KHOO Willie Zi Le;SGP;;;;;;;;0.00;;;;0.00;0.00
+380;FAERBER Stephan;SUI;;;;;;0.00;;;;;;;0.00
+381;ANDERSON Mathew;CAN;;;0.00;;;;0.00;;;;;;0.00
+382;CONSTANTIN Lucas;SUI;;;;;;0.00;;;;;;;0.00
+383;BROOKE William;CAN;;;;;0.00;;;;;;;;0.00
+383;BAYARD Alexis;SUI;;;;;;0.00;;;;;;;0.00
+383;YAU Shun Him Himson;HKG;;;;;;;;;;;;0.00;0.00
+386;BOGDANOV Alexander;ISR;;;0.00;;;;;;;;;;0.00
+387;MEDLEY Gavin;USA;;0.00;;;;0.00;0.00;;;;;;0.00
+388;PINTO CANO Daniel;COL;;;;;;;;;;;;0.00;0.00
+389;ANDREYUK Nazariy;UKR;;0.00;;;0.00;;;0.00;;;;;0.00
+390;HADDAD Zeid;JOR;;;;;;;;;;;;0.00;0.00
+391;TATAROGLU Berk;TUR;;;;;0.00;0.00;0.00;;;;;;0.00
+392;IYIOLOGLU Meric;TUR;;;;;0.00;0.00;0.00;;;;;;0.00
+393;BADGER Peregrine;USA;;;;;;;0.00;;;;;;0.00
+393;TRUJILLO Erick;MEX;;;;;;;;;;;;0.00;0.00
+395;WARREYN Sander;BEL;;;0.00;;0.00;;0.00;;;;;;0.00
+396;ROTHFELD Andre;BRA;;;;;;;;;;;;0.00;0.00
+397;DOBBELSTEYN Michael;CAN;;;;;;;0.00;;;;;;0.00
+397;SNELL Robert;AUS;;;;;;;;;;;;0.00;0.00
+399;MINKEVICIUS Lukas;LTU;;0.00;;;;;;;;;;0.00;0.00
+400;BOCKO Matus;SVK;;0.00;;;;;;0.00;;;;;0.00
+401;HAIKAL Tony;LBN;;;;;;;;;;;;0.00;0.00
+402;KHILKO Igor;UKR;;0.00;;;0.00;;;0.00;;;;;0.00
+403;AIDO Henrik;EST;;;0.00;;;;0.00;;;;;;0.00
+404;ANDERSSON Mans;SWE;;;;;;;0.00;;;;;;0.00
+405;TAKEDA Jin;JPN;;;;;;;0.00;;;;;;0.00
+406;ALLIKSAAR Renee;EST;;;0.00;;;;;;;;;;0.00
+406;ZHUMABAI UULU Daanyshman;KGZ;;;;;;;;;;;;0.00;0.00
+406;DABIJA Adrian;ROU;;;;;;;;0.00;;;;;0.00
+409;FEDYNA Vlad;UKR;;0.00;0.00;;0.00;;;0.00;;;;;0.00
+410;DOWNES Adam;SWE;;;0.00;;;;0.00;;;;;;0.00
+411;CSAK Marcell;HUN;;;;;;;;0.00;;;;;0.00
+412;D'AMICO Kristian;CZE;;;;;;0.00;;0.00;;;;;0.00
+413;BARRIO Jorge;ESP;;;;;0.00;;0.00;;;;;;0.00
+414;DUTCHAK Anton;UKR;;;0.00;;;;;;;;;;0.00
+415;JAHIMOVICS Andris;LAT;;;;;;;;;;;;0.00;0.00
+416;LAPPALAINEN Pauli;FIN;;;0.00;;;;0.00;;;;;;0.00
+417;WILLEMO Jakob;SWE;;;;;;;0.00;;;;;;0.00
+418;ESER Lutfi;TUR;;;;;0.00;0.00;;;;;;;0.00
+419;GOLEC Pawel;POL;;;;;;;0.00;0.00;;;;;0.00
+420;KIRJONEN Santeri;FIN;;;0.00;;;;;;;;;;0.00
+420;SATKAUSKAS Kasparas;LTU;;;;;;;;;;;;0.00;0.00
+422;TAMMOJA Mike;EST;;;0.00;;;;0.00;;;;;;0.00
+423;OSTAPENKO Aleksandrs;LAT;;;;;;;;;;;;0.00;0.00
+424;KRUTALEVICH Ilya;KAZ;;;;;;;;;;;;0.00;0.00
+424;ROGNON Antoine;SUI;;;;;;0.00;;;;;;;0.00
+426;LEBEDEV Eduard;EST;;;0.00;;;;0.00;;;;;;0.00
+427;STEINBOCK Daniel;SWE;;;;;;;0.00;;;;;;0.00
+427;LUCCI Francesco;ITA;;;;;0.00;;;;;;;;0.00
+429;AMMANN Max;SUI;;;;;;0.00;;;;;;;0.00
+429;SIEBER Henri;SUI;;;;;;0.00;;;;;;;0.00
+429;LERUS ROULEZ Hendrick;FRA;;;;;;;;0.00;;;;;0.00
+432;MANDLA Marten;EST;;;0.00;;;;0.00;;;;;;0.00
+433;RIAD Ali;ISR;;;;;;;0.00;;;;;;0.00
+434;NUOTIO Tatu;FIN;;;0.00;;;;0.00;;;;;;0.00
+435;STASIUNAS Paulius;LTU;;;;;;0.00;;0.00;;;;;0.00
+436;KUTZIY Alon;ISR;;;0.00;;;;0.00;;;;;;0.00
+437;LEE Samuel;SGP;;;;;;;;;;;;0.00;0.00
+438;HAMOLINE Gautier;BEL;;0.00;0.00;;;;;;;;;;0.00
+439;YEGER Stav;ISR;;;0.00;;0.00;;0.00;;;;;;0.00
+440;ILLE Ondrej;SVK;;0.00;;;;;;0.00;;;;;0.00
+441;GAECHTER Flurin;SUI;;;;;;0.00;;;;;;;0.00
+442;DJEENBAYEV Saidbek;UZB;;;;;;;;;;;;0.00;0.00
+443;BRZOZOWSKI Seweryn;POL;;0.00;0.00;;;;;;;;;;0.00
+444;NISTOR Dmitrii;ROU;;;;;;;;0.00;;;;;0.00
+444;VARELA Loic;FRA;;;;;;;;0.00;;;;;0.00
+446;ROKOSZ Krzysztof;POL;;0.00;0.00;;;;;;;;;;0.00
+447;ALCHIN Daniel Patrick;AUS;;;;;;;;;;;;0.00;0.00
+447;DEFRANCE Yanael;FRA;;0.00;;;;;;;;;;;0.00
+449;JACKSON Alpha;COD;;;;;;;;;;;;0.00;0.00
+449;PARN Martin;EST;;;0.00;;;;;;;;;;0.00
+451;SZABADOS Richard;BUL;;;;;;;;0.00;;;;;0.00
+451;SEFULARO Keith Manyaneyane;RSA;;;;;;;;;;;;0.00;0.00
+451;STEIS Lukas;SVK;;0.00;;;;;;;;;;;0.00
+454;TIKHOMIROV Arseni;CAN;;;0.00;;0.00;;0.00;;;;;;0.00
+455;KULT Pavel;CZE;;0.00;;;;;;0.00;;;;;0.00
+456;YEDILKANULY Darkhan;KAZ;;;;;;;0.00;0.00;;;;;0.00
+457;PUCHACHER Lukas;AUT;;;;;0.00;;0.00;;;;;;0.00
+458;IZUMIDA Atsuya;JPN;;;;;;;0.00;;;;;;0.00
+458;PIYA-ANANT Poonanant;THA;;;;;;;;;;;;0.00;0.00
+460;MAJGIER Sebastian;POL;;;;;;;0.00;0.00;;;;;0.00
+461;MAKRAY Bence;HUN;;;;;;;;0.00;;;;;0.00
+461;POURCELOT Gregoire;FRA;;0.00;;;;;;;;;;;0.00
+461;VON BAGH Samuli;FIN;;;0.00;;;;;;;;;;0.00
+461;PHUA Helixman;SGP;;;;;;;;;;;;0.00;0.00
+465;DURDYEV Byashim;TKM;;;;;;;;;;;;0.00;0.00
+465;MORETTI Alessandro;ITA;;;;;0.00;;;;;;;;0.00
+467;ODELEYE Oluwadamilola;NGR;;;;;;;;;;;;0.00;0.00
+467;POZDNYAKOV Maxim;ISR;;;;;;;0.00;;;;;;0.00
+467;EPURESCU Andrei;ROU;;0.00;;;;;;;;;;;0.00
+470;ARAUJO Andre;POR;;;;;;;;0.00;;;;;0.00
+470;KHAMITOV Gayrat;UZB;;;;;;;;;;;;0.00;0.00
+472;LINDE Johan;SWE;;0.00;0.00;;;;0.00;;;;;;0.00
+473;HEIKKARI Matias;FIN;;;0.00;;;;;;;;;;0.00
+473;STEED Oliver;GBR;;0.00;;;;;;;;;;;0.00
+473;MURTHY Shatyavanan;MAS;;;;;;;;;;;;0.00;0.00
+473;SZALAY Jan;SVK;;;;;;;;0.00;;;;;0.00
+477;STASZULONEK Aleksander;POL;;;;;;;0.00;;;;;;0.00
+477;PLASKINS Sergejs;LAT;;;;;;;;;;;;0.00;0.00
+477;TSOKAS Nikolaos;GRE;;0.00;;;;;;;;;;;0.00
+480;AL HAMMADI Abdullah;UAE;;;;;;;;;;;;0.00;0.00
+481;NEERGAARD Axel;FIN;;;0.00;;;;;;;;;;0.00
+481;GASCON Willian;VEN;;;;;;;;;;;;0.00;0.00
+483;BIENENFELD Emanuel;CRO;;0.00;;;;;;0.00;;;;;0.00
+484;PINKERTON Steven;GBR;;0.00;;;;;0.00;;;;;;0.00
+485;HOCHFELDEN Andrew;RSA;;;;;;;;;;;;0.00;0.00
+485;DAMAS LOPEZ Jean Franco;VEN;;;;;;;;0.00;;;;;0.00
+487;KOENIGSWIESER Justus;AUT;;;;;0.00;;0.00;;;;;;0.00
+488;JACK Thomas;FIN;;;0.00;;;;;;;;;;0.00
+488;REDONDO FREYLE Erik;ARU;;;;;;;;;;;;0.00;0.00
+488;SHABANI Elmar;TKM;;;;;;;;;;;;0.00;0.00
+491;PARIZAT Amit;ISR;;;;;;;0.00;;;;;;0.00
+492;PINSENSCHAUM Jens;NAM;;;;;;;;;;;;0.00;0.00
+492;VESANEN Niklas;FIN;;;0.00;;;;;;;;;;0.00
+492;JOVCEVSKI Viktor;MKD;;;;;0.00;;;;;;;;0.00
+495;SINGH Omkar;NEP;;;;;;;;;;;;0.00;0.00
+496;FOGDE Oskar;FIN;;;0.00;;;;0.00;;;;;;0.00
+497;ANICULAESEI Cristian;ROU;;0.00;;;;;;;;;;;0.00
+498;KAAKINEN Kimmo;FIN;;;0.00;;;;;;;;;;0.00
+499;HANSCHKE Samuel;GER;;;;;;;;0.00;;;;;0.00
+500;BIRK Madis;EST;;;0.00;;;;;;;;;;0.00
+501;HONKANEN Aleksis;FIN;;;0.00;;;;;;;;;;0.00
+502;CAGLIDIL Muhip Ege;TUR;;;0.00;;;;;;;;;;0.00
+503;MOHSEN Mahmoud;EGY;;;;;;;;0.00;;;;;0.00
+504;WARG Jonathan;SWE;;;;;;;0.00;;;;;;0.00
+505;SURANO Alvaro;ESP;;;;;;;0.00;;;;;;0.00
+506;KANOUCHI Keiichi;JPN;;;;;;;0.00;;;;;;0.00
+507;JOHNSSON Fredrik;SWE;;;;;;;0.00;;;;;;0.00
+508;SVORAB Aliaksandr;BLR;;0.00;;;;;;;;;;;0.00
+509;MATEITA Leonard;ROU;;0.00;;;;;;;;;;;0.00
+510;WAHLGREN Rasmus;SWE;;;;;;;0.00;;;;;;0.00
+511;FRIDMAN Daniel;ISR;;;;;;;0.00;;;;;;0.00
+512;NYGARD Oskar;SWE;;;;;;;0.00;;;;;;0.00
+513;FLATEN Adam Albrigtsen;NOR;;;;;;;0.00;;;;;;0.00
+514;MANUM Bendik Mogens;NOR;;;;;;;0.00;;;;;;0.00
+515;POPOVIC Valentin;SRB;;0.00;;;;;;;;;;;0.00
+516;ESCHENBACH Richard;USA;;;;;;;0.00;;;;;;0.00
+517;PELAJIC Ivan;CRO;;0.00;;;;;;;;;;;0.00
+517;ERIKSEN Kai Haakon;NOR;;;;;;;0.00;;;;;;0.00
+517;LEIVADAROS Petros;GRE;;0.00;;;;;;;;;;;0.00
+520;EDIN Joakim;NOR;;;;;;;0.00;;;;;;0.00
+521;EKLUND Edvin;SWE;;;;;;;0.00;;;;;;0.00
+522;POTAPENKO Denis;UKR;;0.00;;;;;;;;;;;0.00
+523;ISLAS FLYGARE Linus;SWE;;;;;;;0.00;;;;;;0.00
+524;WERRING Cornelius;NOR;;;;;;;0.00;;;;;;0.00
+525;SUNDBYE Richard;SWE;;;;;;;0.00;;;;;;0.00
+525;MIECIUS Tadas;LTU;;0.00;;;;;;;;;;;0.00
+527;WOLD Marius;NOR;;;;;;;0.00;;;;;;0.00
+527;FABRICIUS-RAHBEK Ditlev;DEN;;;;;;;0.00;;;;;;0.00
+529;KRASTANOV Dimitar;BUL;;0.00;;;;;;;;;;;0.00
+530;JAKIMAVICIUS Zygimantas;LTU;;0.00;;;;;;;;;;;0.00
+531;JANKOVIC Vuk;SRB;;0.00;;;;;;;;;;;0.00
+531;HOSKOVEC Vaclav;CZE;;0.00;;;;;;;;;;;0.00
+531;HUTAR Daniel;CZE;;0.00;;;;;;;;;;;0.00
+531;NAKAMURA Go;JPN;;;;;;;0.00;;;;;;0.00
+535;HAREL Jason;CAN;;;;;;;0.00;;;;;;0.00
+536;FAGELL Maximilian;SWE;;;;;;;0.00;;;;;;0.00
+537;CETIC Danilo;SRB;;0.00;;;;;;;;;;;0.00
+537;NISHIZAWA Itsuki;JPN;;;;;;;0.00;;;;;;0.00
+539;VAGGO Victor;SWE;;;;;;;0.00;;;;;;0.00
+540;KRAUS Peter;SVK;;0.00;;;;;;;;;;;0.00
+541;MED Johan Andreas;NOR;;;;;;;0.00;;;;;;0.00
+542;GRACIN Vito;CRO;;0.00;;;;;;;;;;;0.00
+542;SAMARDZIC Radomir;SRB;;0.00;;;;;;;;;;;0.00
+542;UTNE Bendik;NOR;;;;;;;0.00;;;;;;0.00
+545;NIKLASSON Carl;SWE;;;;;;;0.00;;;;;;0.00
+546;BERGH Casper;NOR;;;;;;;0.00;;;;;;0.00
+547;YIANNAKI Constantinos;CYP;;;;;;;0.00;;;;;;0.00
+547;GAARDSTED Viktor Emil;DEN;;;;;;;0.00;;;;;;0.00
+547;ALOUPAS Achilleas;CYP;;;;;;;0.00;;;;;;0.00
+547;TODA Akitaka;JPN;;;;;;;0.00;;;;;;0.00
+551;MIRONOV Amir;ISR;;;;;;;0.00;;;;;;0.00
+552;MING Daniel;GBR;;;;;;;0.00;;;;;;0.00
+553;DEMETRIOU Demetris;CYP;;;;;;;0.00;;;;;;0.00
